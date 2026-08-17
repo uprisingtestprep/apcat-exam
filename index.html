@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>APCAT Exam Simulator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="access-gate">
+  <div class="gate-bg-shapes">
+    <div class="shape shape-1"></div>
+    <div class="shape shape-2"></div>
+    <div class="shape shape-3"></div>
+  </div>
+  <div class="gate-card">
+    <div class="gate-logo">
+      <div class="logo-badge">APCAT</div>
+    </div>
+    <h1 class="gate-title">Alberta Police Cognitive Ability Test</h1>
+    <p class="gate-subtitle">Exam Simulator</p>
+    <div class="gate-divider"></div>
+    <p class="gate-instruction">Enter your access code to begin</p>
+    <input type="text" id="access-code-input" class="gate-input"
+           placeholder="Access Code" autocomplete="off"
+           maxlength="20" spellcheck="false" />
+    <button id="access-btn" class="gate-btn">Start Exam</button>
+    <p id="access-error" class="gate-error"></p>
+    <p class="gate-hint">Uprising Test Prep</p>
+  </div>
+</div>
+
+<!-- Memory Booklet lock screen: shown once, before a fresh attempt begins,
+     if this attempt drew any Learning and Memory Recall questions. Real
+     enforcement of "you cannot look back" happens ONLY here (never in the
+     printed book, which can only ask nicely) -- the booklet markup is wiped
+     out of #booklet-body the moment the reader continues. -->
+<div id="booklet-screen" style="display:none">
+  <div class="booklet-card">
+    <div class="booklet-header">
+      <span class="booklet-badge">MEMORY BOOKLET</span>
+      <span class="booklet-timer" id="booklet-timer">--:--</span>
+    </div>
+    <p class="booklet-instruction">Study this page. Some questions later in the test will ask you to recall it from memory, with no way to look back.</p>
+    <div class="booklet-body" id="booklet-body"></div>
+    <button id="booklet-begin-btn" class="booklet-begin-btn" disabled>Begin Test</button>
+  </div>
+</div>
+
+<div id="app" style="display:none">
+  <header class="top-bar">
+    <div class="bar-left">
+      <span class="bar-logo">APCAT</span>
+      <span class="bar-title">Exam Simulator</span>
+    </div>
+    <div class="bar-right">
+      <span class="bar-timer" id="timer-display">--:--</span>
+      <button class="bar-btn" id="flag-btn">Flag</button>
+      <button class="bar-btn bar-btn-primary" id="submit-btn">
+        <span class="btn-full">Submit Exam</span>
+        <span class="btn-short">Submit</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="progress-strip">
+    <div class="progress-bar" id="progress-bar"></div>
+  </div>
+
+  <main class="exam-main">
+    <div class="question-panel">
+      <div class="q-meta">
+        <span id="q-counter"></span>
+        <span id="q-domain" class="q-domain-tag"></span>
+        <span id="q-flag-indicator" class="flag-chip" style="display:none">Flagged</span>
+      </div>
+      <!-- Shared text for a linked cluster (a clinical case, a reading
+           passage). It sits ABOVE the stem, which is the one thing that
+           legitimately precedes it, and repeats on every question in the
+           cluster so nobody has to page backwards. -->
+      <div id="q-cluster-wrap" class="cluster-wrap" style="display:none"></div>
+      <p id="question-text" class="q-text"></p>
+      <!-- The picture sits BELOW the question text so the simulator matches
+           the printed book exactly: stem, then picture, then options. They
+           used to disagree (book put the picture under the stem, simulator put
+           it above), so no single wording could be true in both places, and
+           184 of MLPAO's 185 image questions said "shown above" while the
+           book printed the picture below the sentence. Write stems with
+           neutral wording ("the strip shown", "the diagram shows") and this
+           whole class of bug cannot come back. -->
+      <div id="q-image-wrap" style="display:none; margin-bottom:14px;"></div>
+      <div id="options-list" class="options-list"></div>
+      <div id="explanation-box" class="explanation-box" style="display:none">
+        <div class="explanation-label">Explanation</div>
+        <p id="explanation-text" class="explanation-text"></p>
+      </div>
+    </div>
+    <div class="nav-bar">
+      <button class="nav-btn" id="prev-btn">&#8592; Prev</button>
+      <button class="nav-btn nav-btn-map" id="map-btn">Question Map</button>
+      <button class="nav-btn nav-btn-next" id="next-btn">Next &#8594;</button>
+    </div>
+  </main>
+</div>
+
+<!-- Question Map Modal -->
+<div id="map-modal" style="display:none">
+  <div class="map-backdrop" id="map-backdrop"></div>
+  <div class="map-panel">
+    <div class="map-header">
+      <span class="map-title">Question Map</span>
+      <button id="map-close" class="map-close-btn">&#x2715; Close</button>
+    </div>
+    <div class="map-legend">
+      <span class="leg-item"><span class="leg-swatch leg-answered"></span>Answered</span>
+      <span class="leg-item"><span class="leg-swatch leg-flagged"></span>Flagged</span>
+      <span class="leg-item"><span class="leg-swatch leg-unanswered"></span>Unanswered</span>
+    </div>
+    <div id="q-grid" class="q-grid"></div>
+  </div>
+</div>
+
+<div id="results-screen" style="display:none">
+  <div class="results-card">
+    <div class="res-header">
+      <div class="res-badge">APCAT</div>
+      <h2 id="res-status" class="res-status"></h2>
+      <p id="res-score" class="res-score"></p>
+    </div>
+    <div id="res-domains" class="res-domains"></div>
+    <button id="res-review-btn" class="res-btn">Review Answers</button>
+    <button id="res-restart-btn" class="res-btn res-btn-secondary">Restart</button>
+  </div>
+</div>
+
+<script src="questions.js"></script>
+<script src="booklets.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

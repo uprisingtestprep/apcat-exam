@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "judgement",
+    "front": "What are the four tiers of the Judgement priority framework, in order?",
+    "back": "1) Life safety, 2) preventing further harm, 3) preserving the scene and evidence, 4) paperwork and process. Apply this order to every scenario before reading the four options."
+  },
+  {
+    "id": 2,
+    "domain": "judgement",
+    "front": "Which priority tier always outranks every other concern, no exceptions?",
+    "back": "Life safety. Any immediate risk to a life or physical safety, including your own, comes before evidence, escalation risk, or paperwork every time."
+  },
+  {
+    "id": 3,
+    "domain": "judgement",
+    "front": "A scenario shows a growing crowd and a suspect who might flee toward more victims, but no one is hurt yet. Which priority tier applies?",
+    "back": "Tier two, preventing further harm. No active life-safety threat exists yet, so the priority is stopping the situation from escalating, which still outranks preserving evidence or completing paperwork."
+  },
+  {
+    "id": 4,
+    "domain": "judgement",
+    "front": "True or false: keeping witnesses separated so their accounts stay independent belongs in the life-safety tier.",
+    "back": "False. Separating witnesses is a tier-three action, preserving the scene and evidence, done only after people are safe and the situation is not actively escalating."
+  },
+  {
+    "id": 5,
+    "domain": "judgement",
+    "front": "What is the hero trap answer option?",
+    "back": "An option where the candidate acts alone, escalates force or confrontation, or skips communication and backup when the situation calls for support. It looks decisive but is actually reckless."
+  },
+  {
+    "id": 6,
+    "domain": "judgement",
+    "front": "What is the bystander trap answer option?",
+    "back": "An option where the candidate does nothing, waits for someone else to act, defers a decision that is clearly theirs, or avoids the problem in front of them, often disguised as caution."
+  },
+  {
+    "id": 7,
+    "domain": "judgement",
+    "front": "How can you recognize a hero-trap option in an answer list?",
+    "back": "Look for physical intervention, restraint, drawing a weapon, jumping straight to enforcement action like citations or an arrest before communicating with anyone, or acting entirely alone without calling for backup, when the facts do not show an immediate life-threatening emergency requiring instant action."
+  },
+  {
+    "id": 8,
+    "domain": "judgement",
+    "front": "How can you recognize a bystander-trap option in an answer list?",
+    "back": "Look for waiting, deferring to a supervisor for something within your own authority, leaving without addressing the call, or treating an active problem in front of you as someone else's job."
+  },
+  {
+    "id": 9,
+    "domain": "judgement",
+    "front": "What is the safest middle ground between the hero and bystander traps called in this framework?",
+    "back": "Measured, communicated action: acting within your role using tools like calling for backup or verbal de-escalation, without exploding into unilateral force or freezing and deferring everything."
+  },
+  {
+    "id": 10,
+    "domain": "judgement",
+    "front": "Name the four answer archetypes used across most Judgement questions.",
+    "back": "The textbook answer, the aggressive hero-trap option, the passive bystander-trap option, and the plausible-but-subtly-wrong option."
+  },
+  {
+    "id": 11,
+    "domain": "judgement",
+    "front": "What makes the textbook answer option correct?",
+    "back": "It follows the priority framework cleanly: it addresses safety, communicates with the right people, and acts within the officer's role. Still check it against the scenario's specific facts before selecting it automatically."
+  },
+  {
+    "id": 12,
+    "domain": "judgement",
+    "front": "Why is the subtly-wrong option the hardest trap to catch?",
+    "back": "It is not obviously aggressive or passive. It often gets the general direction right but solves a lower-priority issue before a higher one, so you only catch it by having already ranked the facts."
+  },
+  {
+    "id": 13,
+    "domain": "judgement",
+    "front": "True or false: the subtly-wrong option is usually easy to spot because it sounds unreasonable.",
+    "back": "False. It usually sounds reasonable and moves in the right general direction, which is exactly what makes it dangerous. It is caught by priority ranking, not by how it sounds."
+  },
+  {
+    "id": 14,
+    "domain": "judgement",
+    "front": "What elimination process should you run on a four-option Judgement question?",
+    "back": "Read the full scenario once, identify the single highest-priority concern, then check each option against that concern and against both traps. Two options usually fall away, leaving textbook versus subtly-wrong."
+  },
+  {
+    "id": 15,
+    "domain": "judgement",
+    "front": "A house party call has loud music, fifteen people, and no signs of danger or violence. What response category fits?",
+    "back": "A low-tier, communication-first response: calmly speak with the homeowner about the noise. No danger is present, so escalating to enforcement or calling extra units would overreact to the facts given."
+  },
+  {
+    "id": 16,
+    "domain": "judgement",
+    "front": "In the noise-complaint scenario, which option is the hero trap?",
+    "back": "Immediately issuing citations before speaking with anyone. It escalates to enforcement action the facts do not support and skips communication entirely."
+  },
+  {
+    "id": 17,
+    "domain": "judgement",
+    "front": "In the noise-complaint scenario, which option is the bystander trap?",
+    "back": "Turning around and leaving without addressing the complaint. It avoids the call you were dispatched to handle by relabelling avoidance as prioritization."
+  },
+  {
+    "id": 18,
+    "domain": "judgement",
+    "front": "What is the most common pattern found in correct Judgement answers, across nearly every scenario?",
+    "back": "Clear, calm communication, either with the people in the scene or with dispatch and other officers. A correct answer very often includes some version of radioing information in."
+  },
+  {
+    "id": 19,
+    "domain": "judgement",
+    "front": "Name the two forms communication takes in a correct Judgement answer.",
+    "back": "Communicating with the people in the scenario itself, such as calm questions and explaining your actions, and communicating with your own team, such as calling for backup or notifying dispatch."
+  },
+  {
+    "id": 20,
+    "domain": "judgement",
+    "front": "True or false: an option handling a serious situation entirely alone, with no mention of contacting dispatch, is usually the strongest choice.",
+    "back": "False. An option with no communication out is missing a step. Failing to loop in your team is itself treated as a judgement failure, even if the action taken seems otherwise reasonable."
+  },
+  {
+    "id": 21,
+    "domain": "judgement",
+    "front": "A possible suspect match is spotted alone on foot patrol. One option says to follow him without calling it in. What is wrong with it?",
+    "back": "It fails the communication test rather than being an outright hero or bystander trap. Observing is correct, but not radioing it in leaves the officer unsupported if the situation changes."
+  },
+  {
+    "id": 22,
+    "domain": "judgement",
+    "front": "When two similar options differ only in whether one contacts dispatch, what should you do?",
+    "back": "Treat the inclusion of contacting dispatch or informing a colleague as a meaningful signal. It is frequently the exact difference that separates the textbook answer from the subtly-wrong one."
+  },
+  {
+    "id": 23,
+    "domain": "judgement",
+    "front": "What four categories of facts should you extract while reading a Judgement scenario quickly?",
+    "back": "Who is present and their condition, what has already happened, what is actively changing or could worsen, and what resources you have available, such as whether backup is nearby."
+  },
+  {
+    "id": 24,
+    "domain": "judgement",
+    "front": "What two-pass reading strategy does this chapter recommend for long scenario stems?",
+    "back": "A fast first read for the overall shape of the situation, then a slower second read hunting specifically for safety-relevant facts: who is hurt, what is escalating, and whether evidence or a scene is involved."
+  },
+  {
+    "id": 25,
+    "domain": "judgement",
+    "front": "True or false: every detail in a Judgement scenario, including time of day, changes the correct answer.",
+    "back": "False. Minor details that do not change the priority ranking, like time of day or an incidental description, can usually be read past unless the question specifically turns on that detail."
+  },
+  {
+    "id": 26,
+    "domain": "judgement",
+    "front": "A shoplifting suspect left five minutes ago and is known to the manager, with footage available. What should be prioritized first?",
+    "back": "Getting a detailed description and direction of travel from the manager, radioing it in, and confirming the footage is preserved. Accurate information and evidence outweigh chasing an already-departed suspect."
+  },
+  {
+    "id": 27,
+    "domain": "judgement",
+    "front": "In the shoplifting scenario, why is immediately chasing the suspect on foot the hero trap?",
+    "back": "The suspect left five minutes ago in an unknown exact location, so pursuit is a low-payoff action that ignores the better information already available from the manager and the security footage."
+  },
+  {
+    "id": 28,
+    "domain": "judgement",
+    "front": "In the shoplifting scenario, why is telling the manager to file a written report later the bystander trap?",
+    "back": "It treats an active investigation with strong, time-sensitive leads, a known suspect and available footage, as routine paperwork that can wait, when the leads should be locked in right away."
+  },
+  {
+    "id": 29,
+    "domain": "judgement",
+    "front": "What is the correct response in the domestic-dispute scenario, and why?",
+    "back": "Separate the two individuals and speak with each apart. With no weapon, no violence, and no children present, the priority is gathering an uncontaminated account, which requires the parties not to influence each other's story."
+  },
+  {
+    "id": 30,
+    "domain": "judgement",
+    "front": "Why is handcuffing both individuals in the domestic-dispute scenario the hero trap?",
+    "back": "No facts in the scenario, no physical contact and no visible weapon, justify restraining anyone. Applying restraint here escalates force far beyond what the situation actually calls for."
+  },
+  {
+    "id": 31,
+    "domain": "judgement",
+    "front": "Why is telling both parties to go inside so neighbours cannot see them the subtly-wrong option?",
+    "back": "It sounds reasonable but prioritizes appearances over accurate information gathering, and it keeps the two people together where they can keep shaping each other's account instead of separating them."
+  },
+  {
+    "id": 32,
+    "domain": "judgement",
+    "front": "What single skill does every Judgement question ultimately test?",
+    "back": "Prioritization under uncertainty: deciding what matters most right now with incomplete, moving information, not recalling a specific law, statute, or department policy."
+  },
+  {
+    "id": 33,
+    "domain": "judgement",
+    "front": "True or false: a candidate needs a policing or security background to score well on Judgement questions.",
+    "back": "False. A person using common sense and a consistent priority framework can work out the best answer from the facts given, without outside legal knowledge or prior experience."
+  },
+  {
+    "id": 34,
+    "domain": "judgement",
+    "front": "If a Judgement question seems to require legal trivia you were never taught, what should you do?",
+    "back": "Reread the scenario. The answer is almost always sitting in the facts already given, since questions are written so common sense plus the priority framework is enough to solve them."
+  },
+  {
+    "id": 35,
+    "domain": "judgement",
+    "front": "Why is a candidate who picks the correctly-documented answer while ignoring an unsafe situation marked wrong?",
+    "back": "Paperwork and process sit in the lowest priority tier. Choosing documentation over an unresolved safety concern reverses the priority order, which the test is specifically built to catch."
+  },
+  {
+    "id": 36,
+    "domain": "judgement",
+    "front": "What quick check should you run before selecting the option that follows procedure cleanly?",
+    "back": "Confirm it actually matches the specific facts of the scenario rather than choosing it on reflex just because it sounds like standard, correct procedure."
+  },
+  {
+    "id": 37,
+    "domain": "judgement",
+    "front": "An unconscious person, a weapon, a fire, or someone in traffic are all examples of what kind of concern?",
+    "back": "Immediate life-safety concerns. Any of these puts tier one, life safety, at the top of the priority list ahead of everything else happening in the scene."
+  },
+  {
+    "id": 38,
+    "domain": "judgement",
+    "front": "True or false: verbal de-escalation with people in a scene is generally safer than silence or immediate physical control.",
+    "back": "True. Calm questions and explaining your actions almost always reduce risk compared to staying silent or moving straight to physical control."
+  },
+  {
+    "id": 39,
+    "domain": "judgement",
+    "front": "What turns a slow, uncertain Judgement question into a fast elimination exercise?",
+    "back": "Labelling each option as you read it: textbook, hero trap, bystander trap, or subtly-wrong. Naming the pattern on sight speeds up recognition instead of re-reasoning from scratch each time."
+  },
+  {
+    "id": 40,
+    "domain": "judgement",
+    "front": "By the time you finish reading a scenario and reach the four options, what should you already know?",
+    "back": "A rough idea of what the correct answer needs to accomplish, based on the highest-priority concern identified during reading, so selecting the option becomes confirmation rather than fresh analysis."
+  },
+  {
+    "id": 41,
+    "domain": "observation_skills",
+    "front": "What is the core skill tested by APCAT Observation Skills questions?",
+    "back": "Sustained visual attention under time pressure, not memory. Candidates view two scenes side by side and must find how they differ using a systematic method rather than recalling a scene from memory."
+  },
+  {
+    "id": 42,
+    "domain": "observation_skills",
+    "front": "Why does random scanning fail on Observation Skills items?",
+    "back": "It feels active and thorough but is not. Eyes jump between scenes without a plan, so by the fourth or fifth comparison the candidate loses track of what has already been checked and misses differences in plain sight."
+  },
+  {
+    "id": 43,
+    "domain": "observation_skills",
+    "front": "Name the four components of the recommended Observation Skills system.",
+    "back": "A quadrant grid to cover the whole scene without gaps, a fixed six category checklist of difference types, landmark anchoring to keep both scenes aligned, and a time budget for every item."
+  },
+  {
+    "id": 44,
+    "domain": "observation_skills",
+    "front": "Define the quadrant scanning method.",
+    "back": "Mentally divide each scene into four quarters, top left, top right, bottom left, bottom right, and compare the same quarter across both scenes before moving to the next, guaranteeing full coverage instead of random eye movement."
+  },
+  {
+    "id": 45,
+    "domain": "observation_skills",
+    "front": "Which quadrant should you always start in, and why?",
+    "back": "Always start top left. A consistent starting corner builds a rhythm the brain can repeat automatically under pressure, instead of adding one more decision to make in the middle of the test."
+  },
+  {
+    "id": 46,
+    "domain": "observation_skills",
+    "front": "What is the correct order of quadrant checking?",
+    "back": "Top left, then top right, then bottom left, then bottom right, fully comparing Scene A against Scene B within one quadrant before moving on to the next one."
+  },
+  {
+    "id": 47,
+    "domain": "observation_skills",
+    "front": "When should a candidate split each quadrant into eight zones instead of four?",
+    "back": "Only for especially busy scenes with many small objects crowded into one area, like a cluttered desk or a shelf of supplies. Four quadrants is enough structure for most APCAT observation items."
+  },
+  {
+    "id": 48,
+    "domain": "observation_skills",
+    "front": "Why does quadrant scanning outperform free scanning, even though it feels slower at first?",
+    "back": "Free scanning produces a lot of eye movement, but movement is not coverage. Quadrant scanning guarantees every region gets checked, and with practice it becomes faster because you stop re-checking areas you already covered."
+  },
+  {
+    "id": 49,
+    "domain": "observation_skills",
+    "front": "List the six categories of difference tested on Observation Skills items.",
+    "back": "Object added or removed, colour changed, shape changed, size changed, position or location shifted, and count changed."
+  },
+  {
+    "id": 50,
+    "domain": "observation_skills",
+    "front": "Why check the six difference categories in a fixed order every time?",
+    "back": "A checklist prevents skipped steps and stops the eye from wandering aimlessly. A general impression can be wrong, but running the same list every quadrant cannot skip a step."
+  },
+  {
+    "id": 51,
+    "domain": "observation_skills",
+    "front": "Define object added or removed as a difference category.",
+    "back": "Something is fully present in one scene and completely missing from the other. Usually the easiest change to catch, but candidates focused too hard on small details sometimes forget to check for an entire missing or extra object."
+  },
+  {
+    "id": 52,
+    "domain": "observation_skills",
+    "front": "Define colour changed as a difference category.",
+    "back": "An object keeps the same shape, size, and position but its colour shifts, from an obvious change like red to blue to a nearly invisible one like a shirt going slightly darker. This category needs a deliberate dedicated check."
+  },
+  {
+    "id": 53,
+    "domain": "observation_skills",
+    "front": "Define shape changed as a difference category.",
+    "back": "An object's outline changes while everything else about it stays the same, such as a round clock becoming square or a window gaining extra panes. The brain tends to smooth over shape changes when scanning quickly."
+  },
+  {
+    "id": 54,
+    "domain": "observation_skills",
+    "front": "Define size changed as a difference category.",
+    "back": "An object becomes visibly bigger or smaller relative to the rest of the scene. Dramatic size changes are easy to catch, but a subtle ten to fifteen percent shift is a common trap on this test."
+  },
+  {
+    "id": 55,
+    "domain": "observation_skills",
+    "front": "Define position or location shifted as a difference category.",
+    "back": "An object stays identical in every way except where it sits in the scene, like a lamp moved two inches left. Without a fixed anchor point, small position shifts are almost impossible to notice."
+  },
+  {
+    "id": 56,
+    "domain": "observation_skills",
+    "front": "Define count changed as a difference category.",
+    "back": "The number of identical or near-identical objects changes between scenes, such as four birds on a wire becoming three. Counts hide well because the brain registers a group as one fact instead of counting individually."
+  },
+  {
+    "id": 57,
+    "domain": "observation_skills",
+    "front": "Why is count especially easy to miss in a busy scene?",
+    "back": "The brain tends to register a group of similar objects as a single fact, like birds on a wire, rather than counting each one. Only a deliberate count, not a glance, reliably catches a change in quantity."
+  },
+  {
+    "id": 58,
+    "domain": "observation_skills",
+    "front": "What real-world habit does the six category checklist mirror?",
+    "back": "The same principle trained investigators use at a scene: a checklist beats an impression, because a checklist cannot skip a step the way a fast, general impression can."
+  },
+  {
+    "id": 59,
+    "domain": "observation_skills",
+    "front": "Define landmark anchoring as a technique for this section.",
+    "back": "Picking one large, unmistakable, centrally located object in the scene as a fixed reference point, then returning your eyes to it every time you move between Scene A and Scene B before checking a new region."
+  },
+  {
+    "id": 60,
+    "domain": "observation_skills",
+    "front": "Why must a landmark anchor be large and obvious?",
+    "back": "It must be too big and too obvious to plausibly be the intended difference, so it is safe to rely on it as a stable reference point every time you shift your eyes between the two scenes."
+  },
+  {
+    "id": 61,
+    "domain": "observation_skills",
+    "front": "What is edge-to-edge scanning and why does it fail on this section?",
+    "back": "Comparing Scene A and Scene B in a straight sweep, left to right, top to bottom, like reading text. It fails because your eye cannot confirm it is looking at the exact same spot in both images, so small tracking errors build up."
+  },
+  {
+    "id": 62,
+    "domain": "observation_skills",
+    "front": "How does landmark anchoring combine with the quadrant method?",
+    "back": "Place the anchor near the centre where all four quadrants meet. Glance at the anchor before entering each quadrant, then move into that quadrant in both scenes from the same starting point, keeping both images locked to one coordinate system."
+  },
+  {
+    "id": 63,
+    "domain": "observation_skills",
+    "front": "What real-world comparison illustrates why landmark anchoring works?",
+    "back": "A surveyor uses a fixed benchmark before measuring distances across a site. Landmark anchoring gives your eyes the same kind of stable reference point before comparing any other region of a scene."
+  },
+  {
+    "id": 64,
+    "domain": "observation_skills",
+    "front": "What is the recommended time budget per comparison item on the first pass?",
+    "back": "About twenty to twenty five seconds per item, enough to run the quadrant method with the six category checklist on a moderately busy scene once the method is practiced and automatic."
+  },
+  {
+    "id": 65,
+    "domain": "observation_skills",
+    "front": "Why is Observation Skills timed as a whole section instead of question by question?",
+    "back": "Every extra second spent perfecting one comparison is a second stolen from a later one. Overspending on an early item forces a rushed, low-quality attempt at later items with barely any time left."
+  },
+  {
+    "id": 66,
+    "domain": "observation_skills",
+    "front": "What should you do with time remaining after a full first pass?",
+    "back": "Return to the two or three items you were least confident about and give them a genuine fresh second look, restarting the quadrant method from scratch rather than trying to remember where the first pass left off."
+  },
+  {
+    "id": 67,
+    "domain": "observation_skills",
+    "front": "What should you do if you have run the full method twice on one item and are still unsure?",
+    "back": "Make your best supported guess, flag the item if the format allows it, and move on. A rushed or blank answer on several later items is a worse outcome than one imperfect guess."
+  },
+  {
+    "id": 68,
+    "domain": "observation_skills",
+    "front": "Why does timed practice matter separately from untimed practice?",
+    "back": "Untimed practice teaches the method itself. Timed practice teaches the method under the real pressure of the exam room, and those are genuinely different skills that both need building before test day."
+  },
+  {
+    "id": 69,
+    "domain": "observation_skills",
+    "front": "What is a false positive on an Observation Skills item, and what usually causes it?",
+    "back": "Marking a difference that was never actually authored into the image, usually caused by mistaking a rendering artifact, like a jagged edge or a faint colour bleed, for a genuine intentional change."
+  },
+  {
+    "id": 70,
+    "domain": "observation_skills",
+    "front": "How can you tell a rendering artifact from a genuine authored difference?",
+    "back": "Ask whether the change could be explained by how the image was rendered rather than a deliberate edit. A true authored difference is clean and obvious, like a visibly different shape, not a slightly rougher-looking edge."
+  },
+  {
+    "id": 71,
+    "domain": "observation_skills",
+    "front": "What should you do if you are finding far more differences than an item is supposed to have?",
+    "back": "Slow down and re-run the six category checklist rather than trusting your first impression. Marking five or six differences on an item meant to have two or three usually means you are catching rendering noise."
+  },
+  {
+    "id": 72,
+    "domain": "observation_skills",
+    "front": "Why are subtle colour shifts especially easy to miss under time pressure?",
+    "back": "A colour change like navy blue shifting to a slightly lighter navy does not visually jump out the way an object being added or removed does, so a fast scan skips past it unless colour is checked deliberately."
+  },
+  {
+    "id": 73,
+    "domain": "observation_skills",
+    "front": "How should you check colour in a quadrant with several similar shades?",
+    "back": "Slow down specifically in that quadrant and compare each item's colour one at a time, instead of taking in the whole colour palette in one glance and assuming everything matches."
+  },
+  {
+    "id": 74,
+    "domain": "observation_skills",
+    "front": "What is the mistake of fixating on the first difference, and how do you avoid it?",
+    "back": "Stopping the search early after finding one change because you assume the scene only has a single difference. Avoid it by finishing the full quadrant pass every time, since some items ask for all differences or a count."
+  },
+  {
+    "id": 75,
+    "domain": "observation_skills",
+    "front": "Why must you read each item's instructions carefully before scanning a scene?",
+    "back": "Some items ask for a single difference, others ask you to identify all differences or state how many exist. Misreading the instruction can mean stopping too early even after a technically correct partial scan."
+  },
+  {
+    "id": 76,
+    "domain": "observation_skills",
+    "front": "Scenario: a scene has a large parked car that seems too obvious to be the answer. What should you do with it?",
+    "back": "Use it as your landmark anchor rather than dismissing it. A large, central, unmistakable object is exactly what makes a reliable anchor, since it is too big and obvious to be the intended trick difference."
+  },
+  {
+    "id": 77,
+    "domain": "observation_skills",
+    "front": "Scenario: you are on your third item and already forty seconds in with no confident answer. What is the correct move?",
+    "back": "Make your best supported guess, flag the item if possible, and move to the next one. Continuing to stare risks stealing time from several later items you could otherwise answer correctly."
+  },
+  {
+    "id": 78,
+    "domain": "observation_skills",
+    "front": "Scenario: a shelf of books looks the same at a glance in both scenes. How do you confirm the count actually matches?",
+    "back": "Deliberately count the books in each scene during the count check step rather than relying on a glance, since the brain treats a row of similar objects as one fact instead of a specific number."
+  },
+  {
+    "id": 79,
+    "domain": "observation_skills",
+    "front": "Scenario: you spot what looks like a shape change but the edge just looks a little rough. What should you conclude?",
+    "back": "Treat it as a likely rendering artifact rather than an authored difference, since a genuine shape change is clean and deliberate, not a slightly jagged or blurred edge."
+  },
+  {
+    "id": 80,
+    "domain": "observation_skills",
+    "front": "What do the chapter's five worked example scenes demonstrate together?",
+    "back": "That all six difference categories can appear across different scenes, sometimes several in one item, and that a candidate who only checks for one or two categories will miss real changes like a position or count shift."
+  },
+  {
+    "id": 81,
+    "domain": "observation_skills",
+    "front": "Why should a candidate never assume an item tests only one or two categories?",
+    "back": "Worked examples show items can combine several categories at once, such as one position shift, one count change, and one shape change in the same scene. Running the full checklist every time catches changes a partial check would miss."
+  },
+  {
+    "id": 82,
+    "domain": "observation_skills",
+    "front": "What four elements together separate a candidate who finds every difference from one who runs out of time?",
+    "back": "Structure from the quadrant method, order from the fixed six category checklist, anchoring on a stable landmark, and pacing from a strict time budget, applied consistently on every single item."
+  },
+  {
+    "id": 83,
+    "domain": "observation_skills",
+    "front": "What is the single biggest reason rushed test takers miss differences that were in plain sight?",
+    "back": "Random, unstructured scanning. It feels thorough because the eyes move a lot, but without a system like quadrant scanning, coverage is not guaranteed and previously checked areas get lost track of."
+  },
+  {
+    "id": 84,
+    "domain": "observation_skills",
+    "front": "What is Suspect Identification actually testing on the APCAT?",
+    "back": "Not visual memory. It tests whether you can hold several separate facts in your head and check each one methodically against four avatar options without losing track, the way an officer records discrete details from a witness."
+  },
+  {
+    "id": 85,
+    "domain": "observation_skills",
+    "front": "Reframe: is Suspect Identification a spot-the-face task or a checklist task?",
+    "back": "Treat it as a checklist-matching task that happens to use faces as the medium. That reframe turns it from a visual memory problem into a discipline problem: read carefully, check every feature, never stop early."
+  },
+  {
+    "id": 86,
+    "domain": "observation_skills",
+    "front": "List the six features on the standard checklist, in order.",
+    "back": "Hair colour, hair style, eye colour, facial hair, glasses, distinguishing mark. Memorize this exact order and run it the same way every time until it becomes automatic."
+  },
+  {
+    "id": 87,
+    "domain": "observation_skills",
+    "front": "Why check hair colour first?",
+    "back": "It is almost always stated directly using a small set of standard categories like black, brown, dark brown, blonde, grey, or red, so it is the fastest feature to check and usually eliminates options quickly."
+  },
+  {
+    "id": 88,
+    "domain": "observation_skills",
+    "front": "What does the hair style check cover?",
+    "back": "Length and shape descriptors such as short, long, shoulder-length, curly, straight, bald, or receding. Combined with hair colour, it can often eliminate two of the four options before the subtler features are even checked."
+  },
+  {
+    "id": 89,
+    "domain": "observation_skills",
+    "front": "Should eye colour be treated as a primary filter or a tie-breaker?",
+    "back": "A tie-breaker. Eye colour is not mentioned in every description and is often the least visually distinct feature on a small sketch avatar, so lean on it only when other features have not decided the answer."
+  },
+  {
+    "id": 90,
+    "domain": "observation_skills",
+    "front": "Why is facial hair usually a reliable check on sketch avatars?",
+    "back": "It is rendered as one of a few clean, unambiguous shapes: none, a moustache, a full beard, or a goatee. Because the shapes are simple and distinct, this check is normally very reliable."
+  },
+  {
+    "id": 91,
+    "domain": "observation_skills",
+    "front": "Why are glasses one of the fastest, most reliable checks on the list?",
+    "back": "Glasses is a binary check: either the description says the person wears glasses or it does not, and either the avatar shows glasses or it does not. There is no ambiguity possible, so it decides options quickly."
+  },
+  {
+    "id": 92,
+    "domain": "observation_skills",
+    "front": "Why is the distinguishing mark placed last on the checklist rather than skipped?",
+    "back": "Not every description includes one, but when it does, it is often the single feature separating two options that are otherwise identical on everything else. Never skip it even when you already feel confident."
+  },
+  {
+    "id": 93,
+    "domain": "observation_skills",
+    "front": "What examples count as a distinguishing mark?",
+    "back": "A scar, a mole, a birthmark, or a tattoo. When a description includes one, treat it as decisive rather than optional, since it is frequently the only feature that resolves a near-identical pair of options."
+  },
+  {
+    "id": 94,
+    "domain": "observation_skills",
+    "front": "Elimination method, step one: what do you do before looking closely at any avatar?",
+    "back": "Read the entire written description once, all the way through, to get a general sense of what features are mentioned. Do not try to memorize it word for word. This first pass takes only a few seconds."
+  },
+  {
+    "id": 95,
+    "domain": "observation_skills",
+    "front": "Elimination method, step two: what do you build after the first read?",
+    "back": "A short fact list, ticking off each feature from the checklist in order, for example: black hair, short, brown eyes, moustache, no glasses, scar on left cheek. You are building facts, not a mental picture."
+  },
+  {
+    "id": 96,
+    "domain": "observation_skills",
+    "front": "Elimination method, step three: what happens the moment an option contradicts one feature on your list?",
+    "back": "Cross it out immediately and move to the next option. Do not keep evaluating an option after it has failed on one feature. There is no partial credit for close enough."
+  },
+  {
+    "id": 97,
+    "domain": "observation_skills",
+    "front": "Elimination method, step four: what should be true once all four options are checked?",
+    "back": "Three options will usually be eliminated by a clear contradiction, and one will have survived every check against your fact list. That surviving option is the answer."
+  },
+  {
+    "id": 98,
+    "domain": "observation_skills",
+    "front": "Why physically mark each option as you eliminate it?",
+    "back": "Marking each eliminated option, even just resting a finger under the letter, frees up mental space so you are not trying to hold A is out, C is out in your head while checking the remaining options."
+  },
+  {
+    "id": 99,
+    "domain": "observation_skills",
+    "front": "Why does the elimination method beat matching an avatar by feel?",
+    "back": "Matching by feel tends to anchor on the first one or two details, decide an option looks right, and stop checking. Elimination forces you to actually use every piece of information in the description."
+  },
+  {
+    "id": 100,
+    "domain": "observation_skills",
+    "front": "Which two features does a snap-judgement approach usually lock onto and then stop?",
+    "back": "Hair colour and hair style. Stopping there is exactly the habit the harder questions in this section are designed to exploit, particularly the near-identical pair trap."
+  },
+  {
+    "id": 101,
+    "domain": "observation_skills",
+    "front": "Why does this exam use sketch-style avatars instead of realistic photographs?",
+    "back": "A photograph invites subjective judgement, since two people can disagree whether hair is dark brown or black. That kind of judgement call cannot be marked objectively, so it has no place in a scored aptitude test."
+  },
+  {
+    "id": 102,
+    "domain": "observation_skills",
+    "front": "How does a sketch-style avatar remove the subjectivity problem a photo creates?",
+    "back": "Every feature is drawn from a small, fixed set of clearly rendered categories: a handful of hair colours, a few clean facial hair shapes, glasses present or absent, a mark present or absent, with no shading or angle to interpret."
+  },
+  {
+    "id": 103,
+    "domain": "observation_skills",
+    "front": "Sketch avatars turn Suspect Identification into what kind of problem?",
+    "back": "A checklist problem, matching a written category to a drawn category, rather than a perception problem. That is why the elimination method works so reliably here."
+  },
+  {
+    "id": 104,
+    "domain": "observation_skills",
+    "front": "If you cannot decide whether an avatar's hair counts as brown or dark brown, what should you do?",
+    "back": "Step back. These avatars are built specifically so that call should not be close, so genuine ambiguity usually means you should look for a different, more decisive feature instead of forcing that judgement."
+  },
+  {
+    "id": 105,
+    "domain": "observation_skills",
+    "front": "Describe the near-identical pair trap.",
+    "back": "Two of the four options share every feature except one, for example matching on hair colour, hair style, and facial hair but differing only on whether a scar is present. Stopping before the last feature leaves a fifty percent guess."
+  },
+  {
+    "id": 106,
+    "domain": "observation_skills",
+    "front": "How does running the full checklist in order beat the near-identical pair trap?",
+    "back": "On a near-identical pair, only the distinguishing mark actually decides the answer. A candidate who runs the checklist all the way to that final step gets it right every time instead of guessing between two options."
+  },
+  {
+    "id": 107,
+    "domain": "observation_skills",
+    "front": "Describe the vague category word trap.",
+    "back": "A description says something imprecise like dark hair rather than specifying black or dark brown, so hair colour alone cannot cleanly eliminate every option that could reasonably be called dark."
+  },
+  {
+    "id": 108,
+    "domain": "observation_skills",
+    "front": "How should you handle a vague word like dark hair that will not cleanly separate the options?",
+    "back": "Treat it as a weaker filter, not a decisive one. Move down the checklist, hair style, then eye colour, then facial hair, then glasses, then the distinguishing mark, until you reach the feature that does separate them."
+  },
+  {
+    "id": 109,
+    "domain": "observation_skills",
+    "front": "Describe the red herring feature order trap.",
+    "back": "A description mentions the distinguishing mark early in the sentence and the hair colour last, tempting a candidate to weight information by where it appears rather than by how decisive it actually is."
+  },
+  {
+    "id": 110,
+    "domain": "observation_skills",
+    "front": "How do you avoid the red herring feature order trap?",
+    "back": "Always run your checklist in the fixed order from the checklist, hair colour through distinguishing mark, regardless of the order the description mentions things in. Sentence order is a writing choice, not a hint about importance."
+  },
+  {
+    "id": 111,
+    "domain": "observation_skills",
+    "front": "Is a well-formed Suspect Identification question ever unsolvable using the checklist?",
+    "back": "No. There is always at least one feature that cleanly separates all four options. The task is to find that feature systematically rather than force a decision on the first ambiguous clue."
+  },
+  {
+    "id": 112,
+    "domain": "observation_skills",
+    "front": "What is the time management goal for this section: fastest per question, or something else?",
+    "back": "A consistent, predictable amount of time on each question, not the least time possible. The exam is timed as a whole, so an even pace prevents running out of time with questions left unanswered near the end."
+  },
+  {
+    "id": 113,
+    "domain": "observation_skills",
+    "front": "What should you do if stuck between two options for more than about fifteen seconds?",
+    "back": "Go back to the description and re-scan specifically for the distinguishing mark and for glasses. Being stuck almost always means a feature was missed rather than that the question is unsolvable."
+  },
+  {
+    "id": 114,
+    "domain": "observation_skills",
+    "front": "Which two features are most commonly overlooked when a candidate is rushing?",
+    "back": "Glasses and the distinguishing mark. Both are quick, binary or near-binary checks, but under time pressure they are the ones most often skipped, which is why they are worth re-scanning first if you get stuck."
+  },
+  {
+    "id": 115,
+    "domain": "observation_skills",
+    "front": "When should you go back and change an already-eliminated answer on this section?",
+    "back": "Only if you catch a clear, specific error, such as realizing you misread moustache as goatee. Second-guessing without a specific reason almost always costs more time than it gains in accuracy."
+  },
+  {
+    "id": 116,
+    "domain": "observation_skills",
+    "front": "Why does second-guessing a correctly eliminated answer usually hurt more than it helps?",
+    "back": "The elimination method is designed to be reliable the first time through when you follow the full checklist in order, so revisiting an answer without a specific reason wastes time without improving accuracy."
+  },
+  {
+    "id": 117,
+    "domain": "observation_skills",
+    "front": "What separates the fastest candidates on this section from everyone else?",
+    "back": "Not sharper visual memory. They no longer have to think about what to check next, because the checklist order has become a habit rather than a decision, so the whole process runs faster."
+  },
+  {
+    "id": 118,
+    "domain": "observation_skills",
+    "front": "Scenario: hair colour and hair style match on all four avatar options. What do you do?",
+    "back": "Keep working down the checklist in order: eye colour, then facial hair, then glasses, then the distinguishing mark. A tie on the first two features simply means the deciding feature is further down the list."
+  },
+  {
+    "id": 119,
+    "domain": "observation_skills",
+    "front": "Scenario: three options are eliminated after checking hair colour and hair style. What is the fourth option?",
+    "back": "It is your answer, but only after you have actually checked it against every remaining feature on your fact list. Do not assume it is correct just because the other three failed early."
+  },
+  {
+    "id": 120,
+    "domain": "observation_skills",
+    "front": "Scenario: an option matches every feature you have checked so far. Should you select it immediately?",
+    "back": "No. Continue through the remaining checklist items, especially the distinguishing mark. Stopping early on an option that has only partially been checked is exactly how the near-identical pair trap catches candidates."
+  },
+  {
+    "id": 121,
+    "domain": "observation_skills",
+    "front": "What is the correct fact-list style entry for a description, as loose prose or as discrete facts?",
+    "back": "Discrete facts, for example black hair, short, brown eyes, moustache, no glasses, scar on left cheek. A fact list is quicker to check option by option than trying to hold a mental picture of the suspect."
+  },
+  {
+    "id": 122,
+    "domain": "observation_skills",
+    "front": "Why is there no partial credit for an option that matches most but not all features?",
+    "back": "A single mismatched feature makes the option wrong, full stop. Sketch avatars are drawn from fixed categories with no ambiguity, so a contradiction on even one feature is enough to eliminate it entirely."
+  },
+  {
+    "id": 123,
+    "domain": "observation_skills",
+    "front": "What is the fastest first-pass filter on the checklist, and why?",
+    "back": "Hair colour, because it is stated directly using a small set of standard categories and is usually the quickest feature to compare against an avatar, letting you eliminate obviously wrong options right away."
+  },
+  {
+    "id": 124,
+    "domain": "observation_skills",
+    "front": "How much of the elimination pass across all four options should take once practised?",
+    "back": "Well under a minute total, following a fact-list extraction of only a few seconds. Consistent practice with the fixed checklist order is what brings the whole process down to that speed."
+  },
+  {
+    "id": 125,
+    "domain": "observation_skills",
+    "front": "Summarize the core discipline this whole chapter is teaching in one sentence.",
+    "back": "Read the full description once, extract a fixed-order fact list, then eliminate each option the moment it contradicts even one feature, never stopping early no matter how confident an option feels."
+  },
+  {
+    "id": 126,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the Memory Booklet component of the APCAT?",
+    "back": "A section where candidates study a printed booklet of information, have it taken away, and then answer detailed recall questions about it later, sometimes much later in the test, using only their memory."
+  },
+  {
+    "id": 127,
+    "domain": "learning_and_memory_recall",
+    "front": "How much time do candidates typically get to study the Memory Booklet?",
+    "back": "Commonly around fifteen minutes, though the exact time allowed can vary, so always confirm the actual study period given on your specific test day."
+  },
+  {
+    "id": 128,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: all Memory Booklet recall questions appear right after the study period ends.",
+    "back": "False. Some questions appear early, but others are placed much later in the test, sometimes after an hour or more of unrelated sections like reading comprehension or math."
+  },
+  {
+    "id": 129,
+    "domain": "learning_and_memory_recall",
+    "front": "Name the four kinds of material typically bundled in the Memory Booklet.",
+    "back": "A short narrative bulletin, a list of arbitrary facts such as codes or numbers, a physical description of a suspect, and a filled-in sample form like an arrest report or incident log."
+  },
+  {
+    "id": 130,
+    "domain": "learning_and_memory_recall",
+    "front": "Why should you plan for recall questions that appear near the end of the test?",
+    "back": "Because those later questions test whether your memory survives real time and interference from unrelated mental work, not just whether you can recall something moments after studying it."
+  },
+  {
+    "id": 131,
+    "domain": "learning_and_memory_recall",
+    "front": "What is reconstructable information in a Memory Booklet?",
+    "back": "Narrative material, such as what happened, roughly when, and general descriptions of people or places. It has a logical shape, so your brain can rebuild it from a partial memory."
+  },
+  {
+    "id": 132,
+    "domain": "learning_and_memory_recall",
+    "front": "What is arbitrary information in a Memory Booklet?",
+    "back": "Specific facts with no inherent logic, like a locker combination, access code, phone number, or case file number. Nothing about the digits explains why they are that way, so they have no natural memory hook."
+  },
+  {
+    "id": 133,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: every line of the Memory Booklet deserves equal study intensity.",
+    "back": "False. Treating everything equally is a losing strategy. Arbitrary facts are far more fragile than narrative details and deserve most of your active study effort."
+  },
+  {
+    "id": 134,
+    "domain": "learning_and_memory_recall",
+    "front": "Why is arbitrary information harder to remember than narrative details?",
+    "back": "Narrative details connect logically and form a shape your brain can hold onto, but arbitrary numbers and codes have no story explaining them, so there is nothing natural to hang the memory on."
+  },
+  {
+    "id": 135,
+    "domain": "learning_and_memory_recall",
+    "front": "What study-time ratio works well across a fifteen-minute Memory Booklet session?",
+    "back": "Roughly two to three minutes reading everything once for understanding, about half the remaining time actively working the arbitrary numbers and codes, and the final minutes on active self-testing across the whole booklet."
+  },
+  {
+    "id": 136,
+    "domain": "learning_and_memory_recall",
+    "front": "Define chunking as a memory technique.",
+    "back": "Breaking a long, unstructured string of digits or characters into smaller groups, because short term memory holds a few small chunks far more easily than one long unbroken string."
+  },
+  {
+    "id": 137,
+    "domain": "learning_and_memory_recall",
+    "front": "Why are phone numbers naturally memorized in groups instead of as one long string?",
+    "back": "Because grouping digits into small chunks, like an area code plus two shorter blocks, is exactly what makes a phone number memorable at all rather than a random ten-digit string."
+  },
+  {
+    "id": 138,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: chunk the badge number 583920 into groups for easier recall.",
+    "back": "58, 39, 20. Rehearse the three chunks in that rhythm a few times, then rebuild the full number later by stringing the chunks back together in order."
+  },
+  {
+    "id": 139,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: chunk the case file number 7714 for easier recall.",
+    "back": "77 and 14. Even a short four-digit number benefits from splitting into two small chunks rather than holding it as one unbroken string."
+  },
+  {
+    "id": 140,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: chunking alone is enough to guarantee durable long-term recall.",
+    "back": "False. Chunking helps hold a number in short term memory, but it works even better combined with association and visualization, which give a fact a hook that survives longer."
+  },
+  {
+    "id": 141,
+    "domain": "learning_and_memory_recall",
+    "front": "Define association and visualization as a memory technique.",
+    "back": "Giving an arbitrary fact a deliberate hook, such as a vivid or slightly unusual mental image, so your brain has something meaningful to latch onto instead of a plain number with no story."
+  },
+  {
+    "id": 142,
+    "domain": "learning_and_memory_recall",
+    "front": "Name three ways to build a visual hook for an arbitrary number.",
+    "back": "Turn digits into a picture, link the fact to something else already in the booklet, or exaggerate the number with motion, like doors slamming shut or climbing repeated staircase steps."
+  },
+  {
+    "id": 143,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: build a quick visual image for locker number 214.",
+    "back": "Picture the locker with a glowing clock face reading 2:14 bolted to the front. The image gives you an anchor that a bare number by itself would not provide."
+  },
+  {
+    "id": 144,
+    "domain": "learning_and_memory_recall",
+    "front": "Why does linking a fact to something else in the booklet work, even if the link is illogical?",
+    "back": "The connection does not need to make logical sense. It only needs to be memorable to you personally, since an invented link still gives an otherwise bare fact something to attach to."
+  },
+  {
+    "id": 145,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: your mental images must be artistic or elaborate to work.",
+    "back": "False. The image can be as basic as you like. The only real requirement is that it feels more vivid than the plain number by itself, since vividness is what makes it stick."
+  },
+  {
+    "id": 146,
+    "domain": "learning_and_memory_recall",
+    "front": "How is active recall different from passive rereading?",
+    "back": "Active recall means testing yourself by trying to produce facts from memory with the page hidden, while passive rereading just involves looking at the page again without ever retrieving anything on your own."
+  },
+  {
+    "id": 147,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: feeling familiar with a page means you have truly memorized it.",
+    "back": "False. Familiarity is not the same as being able to produce information from memory with the page gone, which is exactly the situation you face during the actual test."
+  },
+  {
+    "id": 148,
+    "domain": "learning_and_memory_recall",
+    "front": "Why does testing yourself strengthen memory more than simply rereading a page?",
+    "back": "Retrieving information from memory, even when you get part of it wrong, strengthens the memory pathway far more than passively looking at the same material again without retrieving it yourself."
+  },
+  {
+    "id": 149,
+    "domain": "learning_and_memory_recall",
+    "front": "Besides strengthening memory, what is the second benefit of active recall?",
+    "back": "It immediately shows you which facts are shaky, so you know exactly where to spend your remaining study minutes instead of vaguely rereading the whole page and hoping it helps."
+  },
+  {
+    "id": 150,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: what should you do right after your first full read-through of a booklet?",
+    "back": "Look away or close your eyes and try to say the key facts out loud in your head before looking back at the page to check yourself against what you actually recalled."
+  },
+  {
+    "id": 151,
+    "domain": "learning_and_memory_recall",
+    "front": "Outline a five-part rhythm for using a fifteen-minute Memory Booklet study period.",
+    "back": "Read once for understanding, chunk and visualize every arbitrary fact, do a full self-test from memory, check yourself and re-drill anything missed, then finish with one last self-test on the weakest facts."
+  },
+  {
+    "id": 152,
+    "domain": "learning_and_memory_recall",
+    "front": "Why do later recall questions test something different than questions asked right after studying?",
+    "back": "Early questions only test short-term memory right after study, while later questions, sometimes asked after an hour of unrelated sections, test whether the memory actually survived time and mental interference."
+  },
+  {
+    "id": 153,
+    "domain": "learning_and_memory_recall",
+    "front": "What makes a memory technique durable rather than just short-term?",
+    "back": "A durable technique produces a fact you can recall more than once, with a real gap in between, under your own testing, not just once immediately after you first read it."
+  },
+  {
+    "id": 154,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: you should study arbitrary codes before doing a full first read-through.",
+    "back": "False. Spend your first two to three minutes reading the whole booklet once for overall understanding, then shift most of your remaining time toward the arbitrary numbers and codes."
+  },
+  {
+    "id": 155,
+    "domain": "learning_and_memory_recall",
+    "front": "Why should your first pass through the booklet be a calm, full read-through?",
+    "back": "It gives you the overall picture and context before you narrow your focus, which helps later because narrative details are naturally reconstructable once you understand the general shape of what happened."
+  },
+  {
+    "id": 156,
+    "domain": "learning_and_memory_recall",
+    "front": "What should you spend the middle portion of your study time on?",
+    "back": "Actively working the arbitrary numbers and codes one at a time using chunking and visualization, since that is where forgetting happens fastest and deliberate technique pays off the most."
+  },
+  {
+    "id": 157,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: chunk and visualize the phone number 403-555-0148 for recall.",
+    "back": "Chunk it as 403, 555, 01, 48, then picture dialing an old rotary phone through 403, three bells ringing for 555, and a countdown for 01, 48 to anchor the sequence."
+  },
+  {
+    "id": 158,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: exaggerated or unusual images are more memorable than plain, literal ones.",
+    "back": "True. Small, strange, or physical images with motion tend to outperform calm, literal pictures, because vividness is what makes an arbitrary fact stick in memory."
+  },
+  {
+    "id": 159,
+    "domain": "learning_and_memory_recall",
+    "front": "Give an example of adding motion to make a number memorable.",
+    "back": "Picturing a phone number ending in 0000 as four doors slamming shut in a row, or a repeating code like 3131 as climbing the same staircase step twice."
+  },
+  {
+    "id": 160,
+    "domain": "learning_and_memory_recall",
+    "front": "What should a pre-test practice drill for this skill include?",
+    "back": "A short unfamiliar passage paired with a few invented arbitrary facts, a fixed study window, one full read-through, chunking and visualization, an active self-test, and re-drilling of any weak spots."
+  },
+  {
+    "id": 161,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: this skill only improves by repeatedly studying the exact same passage.",
+    "back": "False. You are training the process itself, such as chunking numbers automatically and reaching for a quick image, not memorizing one particular passage, so practice works best across several different passages."
+  },
+  {
+    "id": 162,
+    "domain": "learning_and_memory_recall",
+    "front": "Why is walking away for at least thirty minutes an essential part of practicing this skill?",
+    "back": "It simulates the real gap and unrelated mental effort between the study period and later recall questions on test day, which is exactly what a quick immediate self-test cannot recreate."
+  },
+  {
+    "id": 163,
+    "domain": "learning_and_memory_recall",
+    "front": "What does a delayed self-test during practice actually simulate?",
+    "back": "The later-in-the-test recall questions on the real APCAT, where a significant time gap and a pile of unrelated content sit between the study period and some of the recall questions."
+  },
+  {
+    "id": 164,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: chunking and visualization only work for numbers, never for names or codes.",
+    "back": "False. Both techniques apply to any arbitrary fact, including names attached to reference fields, badge numbers, or file codes, not just plain digit strings."
+  },
+  {
+    "id": 165,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the goal of repeating the practice drill across several different passages?",
+    "back": "To train the habit itself, such as chunking automatically and reaching for a visual image without effort, so the routine feels familiar rather than something invented under pressure on test day."
+  },
+  {
+    "id": 166,
+    "domain": "learning_and_memory_recall",
+    "front": "True or false: getting an answer wrong during self-testing is wasted study effort.",
+    "back": "False. Even a partly wrong retrieval attempt strengthens the memory pathway, and it also reveals exactly which facts are shaky so you know where to focus your remaining time."
+  },
+  {
+    "id": 167,
+    "domain": "learning_and_memory_recall",
+    "front": "Practice drill: name the two techniques to apply to arbitrary numbers before self-testing.",
+    "back": "Chunking, which breaks the number into small groups, and association or visualization, which attaches a vivid mental image to the number so it has a hook to hold onto."
+  },
+  {
+    "id": 168,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the Memory Booklet section ultimately measuring, according to this chapter?",
+    "back": "A learnable routine, more than raw memory talent: the habit of chunking arbitrary facts, using quick visual hooks, and trusting active self-testing over passive rereading."
+  },
+  {
+    "id": 169,
+    "domain": "learning_and_memory_recall",
+    "front": "What are the five standard arrest report categories, in order?",
+    "back": "Subject identifying information, the charge, the arresting officer, time and location of arrest, and vehicle involved."
+  },
+  {
+    "id": 170,
+    "domain": "learning_and_memory_recall",
+    "front": "What three pieces of information make up Subject identifying information?",
+    "back": "Full name, date of birth, and physical description such as height and weight."
+  },
+  {
+    "id": 171,
+    "domain": "learning_and_memory_recall",
+    "front": "What does the Charge field on an arrest report record?",
+    "back": "The exact offence the subject is being arrested for, stated as a specific legal charge rather than a general description."
+  },
+  {
+    "id": 172,
+    "domain": "learning_and_memory_recall",
+    "front": "What does the Arresting officer field record?",
+    "back": "The name or badge number of the officer who made the arrest, sometimes shown with a rank such as Cst. or Sgt."
+  },
+  {
+    "id": 173,
+    "domain": "learning_and_memory_recall",
+    "front": "What two facts does the Time and location of arrest field give?",
+    "back": "When the arrest itself took place and where it took place. This is the moment of arrest, not necessarily the original incident."
+  },
+  {
+    "id": 174,
+    "domain": "learning_and_memory_recall",
+    "front": "What details does the Vehicle involved field record when a vehicle is present?",
+    "back": "Make, model, colour, and licence plate of any vehicle connected to the arrest."
+  },
+  {
+    "id": 175,
+    "domain": "learning_and_memory_recall",
+    "front": "Is the location of arrest always the same as the location of the original incident?",
+    "back": "No. The two can differ, so treat them as two separate facts rather than assuming one location covers both."
+  },
+  {
+    "id": 176,
+    "domain": "learning_and_memory_recall",
+    "front": "Besides the five backbone categories, what optional sixth field sometimes appears on a form?",
+    "back": "A brief note or disposition field, which is not guaranteed to appear but occasionally sits alongside the five standard categories."
+  },
+  {
+    "id": 177,
+    "domain": "learning_and_memory_recall",
+    "front": "How should you treat a field such as \"Vehicle involved: none\"?",
+    "back": "Flag it during study as a confirmed empty fact. That way a blank field reads as a known answer instead of a memory gap during the test."
+  },
+  {
+    "id": 178,
+    "domain": "learning_and_memory_recall",
+    "front": "Why doesn't an arrest report work like the narrative bulletins from earlier in the Memory Booklet?",
+    "back": "A bulletin tells a story where each event pulls the next one along. An arrest report is a set of independent boxes with no narrative thread connecting them."
+  },
+  {
+    "id": 179,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the core idea behind the categories-first recall technique?",
+    "back": "Memorize the list of field categories completely separately from their specific values, so you always know where to look even if one value slips your mind."
+  },
+  {
+    "id": 180,
+    "domain": "learning_and_memory_recall",
+    "front": "What mental image represents the five arrest report categories in this technique?",
+    "back": "Five labelled drawers in a filing cabinet, one drawer per category, each holding only the facts that belong to it."
+  },
+  {
+    "id": 181,
+    "domain": "learning_and_memory_recall",
+    "front": "What are the five drawer labels, in the order you should recite them?",
+    "back": "Subject, Charge, Arresting Officer, Time and Location, Vehicle, recited in that fixed order every time until it comes without hesitation."
+  },
+  {
+    "id": 182,
+    "domain": "learning_and_memory_recall",
+    "front": "About how long should you spend reciting the drawer labels before studying an actual form?",
+    "back": "Two to three minutes, saying the labels out loud and writing them from memory until they come without hesitation."
+  },
+  {
+    "id": 183,
+    "domain": "learning_and_memory_recall",
+    "front": "Once the drawer order is solid, what do you do next?",
+    "back": "Fill each drawer one at a time using the association techniques from Chapter 4, such as peg words, vivid imagery, and exaggeration."
+  },
+  {
+    "id": 184,
+    "domain": "learning_and_memory_recall",
+    "front": "How does the categories-first approach limit the damage if you forget one fact?",
+    "back": "Because each fact lives in its own drawer rather than on one connected thread, forgetting a badge number does not drag the surrounding facts down with it."
+  },
+  {
+    "id": 185,
+    "domain": "learning_and_memory_recall",
+    "front": "Besides protecting single facts, what second problem does knowing the drawer labels cold solve?",
+    "back": "It stops you answering the wrong question. Two similar-sounding prompts, such as date of birth versus time of arrest, are instantly sorted into the right drawer."
+  },
+  {
+    "id": 186,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the mental check-in technique?",
+    "back": "A brief five to ten second pause at a natural break point where you silently run through the five drawer labels to keep the structure warm in memory."
+  },
+  {
+    "id": 187,
+    "domain": "learning_and_memory_recall",
+    "front": "When during the test should you perform a mental check-in?",
+    "back": "At a natural pause point, such as the end of a section, rather than in the middle of answering a question."
+  },
+  {
+    "id": 188,
+    "domain": "learning_and_memory_recall",
+    "front": "The chapter compares the mental check-in to what everyday action?",
+    "back": "Glancing at a fire occasionally to confirm it is still lit, instead of walking away for two hours and hoping it never went out."
+  },
+  {
+    "id": 189,
+    "domain": "learning_and_memory_recall",
+    "front": "Should the mental check-in interrupt your focus on the question currently in front of you?",
+    "back": "No. It is meant to run silently in the background, similar to humming a tune under your breath without breaking your concentration."
+  },
+  {
+    "id": 190,
+    "domain": "learning_and_memory_recall",
+    "front": "Why does the APCAT place arrest report questions near the end of the test rather than right after the study window?",
+    "back": "To test whether your memory holds up over time and under fatigue, not just whether you can repeat information back thirty seconds after reading it."
+  },
+  {
+    "id": 191,
+    "domain": "learning_and_memory_recall",
+    "front": "What real work scenario does placing these questions late in the test deliberately mimic?",
+    "back": "Real policing, where an officer cannot recall details on demand right after learning them. Hours pass, other calls come in, and accurate recall is still required later."
+  },
+  {
+    "id": 192,
+    "domain": "learning_and_memory_recall",
+    "front": "Because arrest questions come late, what must your preparation plan include beyond building good associations?",
+    "back": "A plan for keeping those associations alive across the whole sitting, since your attention is pulled toward unrelated question types in between."
+  },
+  {
+    "id": 193,
+    "domain": "learning_and_memory_recall",
+    "front": "What kind of material does a \"Memory\" question draw on?",
+    "back": "Narrative bulletin material: the description of an incident, a suspect's physical description, a code or radio signal, or a sequence of events."
+  },
+  {
+    "id": 194,
+    "domain": "learning_and_memory_recall",
+    "front": "What kind of material does an \"Arrests\" question draw on?",
+    "back": "The arrest report form fields: subject identifying details, the charge, the arresting officer, the time and location of arrest, and the vehicle."
+  },
+  {
+    "id": 195,
+    "domain": "learning_and_memory_recall",
+    "front": "How are Memory-type questions typically phrased?",
+    "back": "Around what happened, who was described, or what code was used, since the answer lives in story-based bulletin associations."
+  },
+  {
+    "id": 196,
+    "domain": "learning_and_memory_recall",
+    "front": "How are Arrests-type questions typically phrased?",
+    "back": "Around one specific field, such as a name, a number, a charge, or a plate, the way a labelled box on a form would be asked about."
+  },
+  {
+    "id": 197,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the fastest way to tell a Memory question apart from an Arrests question?",
+    "back": "Look at the shape of the question. An event, action, or description points to Memory, while a request for one fact that sits in a labelled box points to Arrests."
+  },
+  {
+    "id": 198,
+    "domain": "learning_and_memory_recall",
+    "front": "What happens if you search the wrong mental file, such as reaching for bulletin details on an officer-name question?",
+    "back": "You waste precious seconds correcting course under time pressure, which is why recognizing the question type before searching your memory matters."
+  },
+  {
+    "id": 199,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the officer-versus-subject name trap?",
+    "back": "An arrest report can give the arresting officer and the subject similar or even identical first names, making it easy to mix up which fact belongs to which person."
+  },
+  {
+    "id": 200,
+    "domain": "learning_and_memory_recall",
+    "front": "How do you avoid confusing the officer and the subject when they share a first name?",
+    "back": "Build two clearly different mental pictures from the start, tied to their roles: an image of authority or a uniform for the officer, and an image tied to the charge for the subject."
+  },
+  {
+    "id": 201,
+    "domain": "learning_and_memory_recall",
+    "front": "During study, what should you do if your officer image and subject image start to feel similar?",
+    "back": "Treat that as a cue to rebuild one of the two images with sharper contrast so the two people never blur together in memory."
+  },
+  {
+    "id": 202,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the incident-time-versus-arrest-time trap?",
+    "back": "The moment an incident occurred and the moment the subject was actually arrested are almost always two different points in time, even though both belong to the same case."
+  },
+  {
+    "id": 203,
+    "domain": "learning_and_memory_recall",
+    "front": "How do you keep incident time and arrest time from getting swapped?",
+    "back": "Attach the arrest time to an image of the arrest itself, such as handcuffs or a cruiser, and attach the incident time to an image of the original event."
+  },
+  {
+    "id": 204,
+    "domain": "learning_and_memory_recall",
+    "front": "What happens if the incident time and arrest time end up inside the same mental picture?",
+    "back": "You are far more likely to swap them by accident, since the two numbers no longer have separate images pulling them apart."
+  },
+  {
+    "id": 205,
+    "domain": "learning_and_memory_recall",
+    "front": "Why are numeric fields, such as badge numbers and plate numbers, especially prone to error under time pressure?",
+    "back": "Digits are easy to transpose when reading quickly under pressure, for example recalling 247 instead of 274, or one plate suffix swapped for another."
+  },
+  {
+    "id": 206,
+    "domain": "learning_and_memory_recall",
+    "front": "How should you chunk a number when first building an association for it?",
+    "back": "Break it into small groups the way you would a phone number, two or three digits at a time, rather than treating it as one long string."
+  },
+  {
+    "id": 207,
+    "domain": "learning_and_memory_recall",
+    "front": "What extra step should you take right before committing to a numeric answer?",
+    "back": "Take one extra half second to silently re-read the number digit by digit, which is cheap insurance against a transposition a rushed glance would miss."
+  },
+  {
+    "id": 208,
+    "domain": "learning_and_memory_recall",
+    "front": "If you search a drawer during the test and find nothing there, what should you assume?",
+    "back": "That the field is genuinely empty, provided you flagged it as empty during study. Do not assume you forgot the value and start guessing."
+  },
+  {
+    "id": 209,
+    "domain": "learning_and_memory_recall",
+    "front": "What is the trap of treating the whole arrest report as one memory instead of five?",
+    "back": "Holding the form as one blurred impression, rather than five distinct pieces, is the trap behind every other mix-up, since a fuzzy whole-form memory offers nothing solid to check against."
+  },
+  {
+    "id": 210,
+    "domain": "learning_and_memory_recall",
+    "front": "When your recall of a form feels fuzzy, what is the recommended fix?",
+    "back": "Return to the five drawer labels and rebuild whichever single drawer feels weak, rather than trying to relearn the whole page from scratch."
+  },
+  {
+    "id": 211,
+    "domain": "written_communication",
+    "front": "What is the subject-verb agreement rule when a prepositional phrase sits between the subject and the verb?",
+    "back": "The verb must agree with the true subject, not with the noun closest to it in the prepositional phrase. Mentally cross out phrases starting with of, with, or including, then check agreement."
+  },
+  {
+    "id": 212,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The bag of evidence bags were placed in the locker.'",
+    "back": "The verb should be was, not were. The subject is bag, singular, not bags, which is the object of the prepositional phrase of evidence bags. Correct version: 'The bag of evidence bags was placed in the locker.'"
+  },
+  {
+    "id": 213,
+    "domain": "written_communication",
+    "front": "How do collective nouns like team, jury, and detachment affect subject-verb agreement?",
+    "back": "They take a singular verb when the group acts as one unit and a plural verb when the members act as individuals. In Canadian usage, treat the group as a single unit by default unless the sentence clearly points to members acting separately."
+  },
+  {
+    "id": 214,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The team were dispatched to the scene as a single unit.'",
+    "back": "The verb should be was, not were. The team is acting as one unit here, so it needs a singular verb. Correct version: 'The team was dispatched to the scene as a single unit.'"
+  },
+  {
+    "id": 215,
+    "domain": "written_communication",
+    "front": "When a singular subject and a plural subject are joined by or or nor, which one does the verb agree with?",
+    "back": "The verb agrees with whichever subject sits closer to it. 'Neither the driver nor the passengers were wearing a seatbelt' is correct because passengers, the closer subject, is plural."
+  },
+  {
+    "id": 216,
+    "domain": "written_communication",
+    "front": "Are indefinite pronouns like everyone, someone, nobody, and each treated as singular or plural?",
+    "back": "Always singular, even though they may seem to describe a group of people. 'Everyone at the scene was interviewed' is correct; were would be a subject-verb agreement error no matter how many people were present."
+  },
+  {
+    "id": 217,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The list of items recovered from the vehicle were entered into evidence.'",
+    "back": "The verb should be was, not were. The subject is list, singular, not items, which is the object of the prepositional phrase of items. Correct version: 'The list of items recovered from the vehicle was entered into evidence.'"
+  },
+  {
+    "id": 218,
+    "domain": "written_communication",
+    "front": "What fast trick helps you check subject-verb agreement when a phrase separates the subject from the verb?",
+    "back": "Cross out the phrase between the subject and the verb in your head, then reread the sentence. Removing the clutter usually makes the correct verb sound obviously right and the wrong verb sound obviously off."
+  },
+  {
+    "id": 219,
+    "domain": "written_communication",
+    "front": "What is an antecedent in the context of pronoun agreement?",
+    "back": "The noun a pronoun stands in for and refers back to, usually mentioned earlier in the sentence or passage. A pronoun must agree with its antecedent in number, and its reference must be clear enough that a reader can identify exactly who is meant."
+  },
+  {
+    "id": 220,
+    "domain": "written_communication",
+    "front": "Why does 'Each driver must show their licence' count as an error on this test?",
+    "back": "Each driver is a singular antecedent, but their is traditionally treated as plural, creating a number mismatch. The test-correct fix is 'Each driver must show his or her licence,' or reword the sentence: 'All drivers must show their licences.'"
+  },
+  {
+    "id": 221,
+    "domain": "written_communication",
+    "front": "What is the safest way to fix a singular antecedent paired with 'their' in a report sentence?",
+    "back": "Reword the sentence around a plural subject instead of forcing his or her onto a singular noun. Changing 'Each driver' to 'All drivers' lets their agree naturally without sounding awkward."
+  },
+  {
+    "id": 222,
+    "domain": "written_communication",
+    "front": "What makes a pronoun reference unclear even when the sentence is grammatically correct?",
+    "back": "The pronoun can logically point back to more than one possible antecedent, so a reader cannot tell who is actually being described. This often happens in reports where two people of the same likely gender are mentioned close together."
+  },
+  {
+    "id": 223,
+    "domain": "written_communication",
+    "front": "Spot the ambiguous reference: 'The officer told the suspect that he would need to answer more questions at the station.'",
+    "back": "He could refer to either the officer or the suspect, so the reader cannot tell who must answer questions. Fix it by naming the person directly, for example: 'The officer told the suspect, \"You will need to answer more questions.\"'"
+  },
+  {
+    "id": 224,
+    "domain": "written_communication",
+    "front": "Spot the error: 'Constable Reyes and Constable Halloran arrived together, and she immediately began speaking with the complainant.'",
+    "back": "If both officers are women, she is ambiguous, since the reader cannot tell which constable is meant. Fix it by naming the officer directly or by using both if the action applies to them equally."
+  },
+  {
+    "id": 225,
+    "domain": "written_communication",
+    "front": "Name two reliable ways to fix an ambiguous pronoun reference in a report sentence.",
+    "back": "Replace the pronoun with the person's actual name or title, or rewrite the sentence so only one antecedent is possible, for example by using both when the action applies equally to two people already named."
+  },
+  {
+    "id": 226,
+    "domain": "written_communication",
+    "front": "What is the default verb tense for a police report, and why does tense consistency matter?",
+    "back": "Simple past tense is the default, since reports describe events that already happened. Unexplained shifts between past and present tense confuse the reader's sense of when each event occurred in the sequence."
+  },
+  {
+    "id": 227,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The witness stated that she saw the vehicle run the red light and then strikes the pedestrian.'",
+    "back": "Strikes is present tense but stated and saw are past tense, with no reason for the shift. It should read struck, keeping the whole reported sequence in the past."
+  },
+  {
+    "id": 228,
+    "domain": "written_communication",
+    "front": "What tense problem often appears in sentences that quote or paraphrase what someone said?",
+    "back": "The sentence drifts between past and present tense within a single reported statement, for example mixing had been going on with is still continuing. The correct version keeps the whole statement in the past unless a deliberate, logical shift is needed."
+  },
+  {
+    "id": 229,
+    "domain": "written_communication",
+    "front": "When should a sentence use the past perfect tense formed with 'had'?",
+    "back": "When describing which of two past actions happened first. 'By the time the officer arrived, the suspect had already left the scene' correctly signals that leaving happened before arriving, using had to mark the earlier event."
+  },
+  {
+    "id": 230,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The officer approached the vehicle and asks the driver for identification.'",
+    "back": "Asks is present tense but approached is past tense, with no reason for the shift. It should read asked, so both actions stay consistently in the past."
+  },
+  {
+    "id": 231,
+    "domain": "written_communication",
+    "front": "Spot the error: 'By the time the officer arrived, the suspect already left the scene.'",
+    "back": "This blurs the order of two past events. Since leaving happened before arriving, the earlier action needs past perfect tense: 'the suspect had already left the scene.'"
+  },
+  {
+    "id": 232,
+    "domain": "written_communication",
+    "front": "What is an independent clause?",
+    "back": "A group of words with its own subject and verb that expresses a complete thought and could stand alone as a sentence. Two independent clauses joined incorrectly create a comma splice or a run-on sentence."
+  },
+  {
+    "id": 233,
+    "domain": "written_communication",
+    "front": "What is a comma splice?",
+    "back": "Two independent clauses joined by only a comma, with no coordinating conjunction. A comma alone is not strong enough to join two complete sentences; it needs a connecting word, a semicolon, or a period instead."
+  },
+  {
+    "id": 234,
+    "domain": "written_communication",
+    "front": "What is a run-on sentence, and how is it different from a comma splice?",
+    "back": "A run-on joins two independent clauses with no punctuation at all, while a comma splice joins them with a comma but no connecting word. Both errors come from linking two complete thoughts without proper punctuation."
+  },
+  {
+    "id": 235,
+    "domain": "written_communication",
+    "front": "Name three correct ways to fix a comma splice.",
+    "back": "Add a coordinating conjunction after the comma, replace the comma with a semicolon, or split the two clauses into separate sentences. All three fixes are treated as correct on this test."
+  },
+  {
+    "id": 236,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The suspect fled on foot, officers pursued on foot as well.'",
+    "back": "This is a comma splice: both halves are independent clauses joined by only a comma. Fix it by adding and after the comma, using a semicolon, or splitting it into two sentences."
+  },
+  {
+    "id": 237,
+    "domain": "written_communication",
+    "front": "Why is 'Because the suspect fled on foot, officers pursued on foot as well' correctly punctuated with just a comma?",
+    "back": "'Because the suspect fled on foot' is a dependent clause that cannot stand alone as a sentence, so it only needs a comma before the independent clause that follows. This is not a comma splice, since only one clause is independent."
+  },
+  {
+    "id": 238,
+    "domain": "written_communication",
+    "front": "What is a modifier, and where does it need to sit in a sentence?",
+    "back": "A word or phrase that describes something else in the sentence. It must sit close to the thing it describes, or the sentence ends up describing something the writer never intended."
+  },
+  {
+    "id": 239,
+    "domain": "written_communication",
+    "front": "What is a dangling modifier?",
+    "back": "A descriptive phrase, usually at the start of a sentence, that has no correct noun to attach to at all. The sentence ends up literally describing the wrong actor, often an object instead of a person."
+  },
+  {
+    "id": 240,
+    "domain": "written_communication",
+    "front": "Spot the error: 'Running down the street, the suspect's vehicle was spotted by the officer.'",
+    "back": "This is a dangling modifier: running down the street sits next to vehicle, which grammatically claims the vehicle was running. Fix it by placing the phrase beside the actual runner: 'Running down the street, the officer spotted the suspect's vehicle.'"
+  },
+  {
+    "id": 241,
+    "domain": "written_communication",
+    "front": "What is a misplaced modifier, and how is it different from a dangling modifier?",
+    "back": "A misplaced modifier has a correct noun in the sentence to attach to, but it sits closer to the wrong word. A dangling modifier has no correct noun to attach to at all, even when the sentence is read literally."
+  },
+  {
+    "id": 242,
+    "domain": "written_communication",
+    "front": "Spot the misplaced modifier: 'The officer only searched the vehicle registered to the suspect.'",
+    "back": "As written, only claims searching was the sole thing the officer did to that vehicle. If the point is that this was the only vehicle searched, move only next to what it modifies: 'The officer searched only the vehicle registered to the suspect.'"
+  },
+  {
+    "id": 243,
+    "domain": "written_communication",
+    "front": "Spot the error: 'Approaching the front door, the broken window was noticed by the officer.'",
+    "back": "This is a dangling modifier: approaching the front door sits next to window, which grammatically claims the window was approaching. Fix it: 'Approaching the front door, the officer noticed the window had been broken.'"
+  },
+  {
+    "id": 244,
+    "domain": "written_communication",
+    "front": "What is the difference between their, there, and they're?",
+    "back": "Their shows possession, as in 'their vehicle.' There indicates a place or introduces a sentence, as in 'there were two witnesses.' They're is a contraction of they are, as in 'they're going to be interviewed.'"
+  },
+  {
+    "id": 245,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The witnesses left they're contact information.'",
+    "back": "They're is a contraction of they are and cannot show possession. The correct word is their: 'The witnesses left their contact information.'"
+  },
+  {
+    "id": 246,
+    "domain": "written_communication",
+    "front": "What is the difference between its and it's?",
+    "back": "Its shows possession and never takes an apostrophe, as in 'its rear window.' It's is always a contraction of it is or it has, as in 'it's clear the window was smashed.' It's is never possessive."
+  },
+  {
+    "id": 247,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The dog broke it's leash.'",
+    "back": "A possessive never takes an apostrophe here, so it's is wrong. The correct word is its: 'The dog broke its leash.'"
+  },
+  {
+    "id": 248,
+    "domain": "written_communication",
+    "front": "How do you decide between who and whom in a sentence?",
+    "back": "Use who when the word is the subject performing the action, and whom when it is the object receiving the action. Mentally substitute he or him: if he fits, use who; if him fits, use whom."
+  },
+  {
+    "id": 249,
+    "domain": "written_communication",
+    "front": "What is the difference between affect and effect in most sentences?",
+    "back": "Affect is almost always a verb meaning to influence, as in 'the weather did not affect the investigation.' Effect is almost always a noun meaning a result, as in 'the weather had no effect on the investigation.'"
+  },
+  {
+    "id": 250,
+    "domain": "written_communication",
+    "front": "Spot the error: 'The weather did not effect the investigation.'",
+    "back": "Effect is a noun, but a verb meaning to influence is needed here. The correct word is affect: 'The weather did not affect the investigation.'"
+  },
+  {
+    "id": 251,
+    "domain": "written_communication",
+    "front": "What is the two-pass scanning technique for finding the one wrong sentence in a set?",
+    "back": "On the first pass, read each sentence once quickly for overall meaning and flag whichever one sounds off, even without naming the rule. On the second pass, check specifically for subject-verb agreement and pronoun reference in each sentence."
+  },
+  {
+    "id": 252,
+    "domain": "written_communication",
+    "front": "During the second pass of the scanning technique, what two checks should you run on every sentence?",
+    "back": "Find the true subject, ignoring any phrase between subject and verb, and confirm the verb agrees with it. Then find every pronoun and confirm it has exactly one logical antecedent. Trust the second pass if it disagrees with your first-pass instinct."
+  },
+  {
+    "id": 253,
+    "domain": "written_communication",
+    "front": "What is the full i before e rule?",
+    "back": "I before e, except after c, or when sounded as ay. The ay-sound clause overrides the except-after-c exception whenever a word's vowel sound is ay rather than ee."
+  },
+  {
+    "id": 254,
+    "domain": "written_communication",
+    "front": "Why do receive, deceive, and ceiling follow the i before e rule?",
+    "back": "Each word has ei directly after the letter c, and the sound is ee, so they match the except after c clause exactly. No further exception applies to any of them."
+  },
+  {
+    "id": 255,
+    "domain": "written_communication",
+    "front": "Why do neighbour, weigh, and eight break the base i before e rule?",
+    "back": "In each word the vowel sound is ay, not ee, which triggers the sounded as ay clause. That clause overrides i before e even though none of these words follow a c."
+  },
+  {
+    "id": 256,
+    "domain": "written_communication",
+    "front": "Is wierd or weird correct?",
+    "back": "Weird is correct. It is a true exception to i before e that does not fit the except after c clause or the ay sound clause, so it must be memorized directly."
+  },
+  {
+    "id": 257,
+    "domain": "written_communication",
+    "front": "Is sieze or seize correct?",
+    "back": "Seize is correct. There is no c before it and no ay sound to explain a reversal, so this is a memorized exception to learn by sight rather than by applying the rule."
+  },
+  {
+    "id": 258,
+    "domain": "written_communication",
+    "front": "Are either and neither i before e exceptions?",
+    "back": "Yes. Both are exceptions to i before e that must be memorized rather than reasoned through, since neither the c rule nor the ay sound rule explains their spelling."
+  },
+  {
+    "id": 259,
+    "domain": "written_communication",
+    "front": "foreign, forfeit, height, leisure",
+    "back": "A set of i before e exceptions with no shared rule to derive them from. Recognize this group on sight and recall each spelling directly instead of applying logic to it."
+  },
+  {
+    "id": 260,
+    "domain": "written_communication",
+    "front": "How should you handle a memorized i before e exception on the exam?",
+    "back": "Recognize it as an exception immediately rather than trying to reason it out with the i before e rule. Applying the rule to a true exception produces the wrong answer."
+  },
+  {
+    "id": 261,
+    "domain": "written_communication",
+    "front": "What is the doubling rule for adding a suffix like ing or ed?",
+    "back": "If a short word ends in one vowel followed by one consonant, and the stress falls on that final syllable, double the consonant before adding a suffix that starts with a vowel."
+  },
+  {
+    "id": 262,
+    "domain": "written_communication",
+    "front": "Why does stop double to stopping?",
+    "back": "Stop ends in a single vowel plus a single consonant, and the stress falls on that one syllable, so the final consonant doubles before the vowel suffix ing is added."
+  },
+  {
+    "id": 263,
+    "domain": "written_communication",
+    "front": "Why does occur double to occurred?",
+    "back": "The stress falls on the second, final syllable, and the word ends in a single vowel plus a single consonant, so the r doubles before the vowel suffix ed is added."
+  },
+  {
+    "id": 264,
+    "domain": "written_communication",
+    "front": "Why does plan double to planned?",
+    "back": "Plan follows the same pattern as stop and occur: a single vowel, a single final consonant, and stress on that syllable, so the n doubles before the vowel suffix ed."
+  },
+  {
+    "id": 265,
+    "domain": "written_communication",
+    "front": "Why doesn't enter double before entering?",
+    "back": "The stress falls on the first syllable of enter, not the final one, so the final consonant does not double. Entering is correct and enterring is a common error."
+  },
+  {
+    "id": 266,
+    "domain": "written_communication",
+    "front": "What happens to a silent e when you add a suffix starting with a vowel?",
+    "back": "The silent e generally drops. Smile becomes smiling and close becomes closing, because a vowel suffix like ing does not need the silent e to keep the long vowel sound."
+  },
+  {
+    "id": 267,
+    "domain": "written_communication",
+    "front": "Is believeing or believing correct?",
+    "back": "Believing is correct. The silent e must drop before the vowel suffix ing. Keeping the e before a vowel suffix is one of the most common silent-e errors on this section."
+  },
+  {
+    "id": 268,
+    "domain": "written_communication",
+    "front": "Why does hope keep its e in hopeful?",
+    "back": "When the suffix begins with a consonant, such as ful, the silent e is usually kept rather than dropped. This is the opposite pattern from adding a vowel suffix like ing."
+  },
+  {
+    "id": 269,
+    "domain": "written_communication",
+    "front": "Why does argue drop its e in argument?",
+    "back": "This is an exception to the usual silent-e pattern. Even though ment begins with a consonant, the e still drops, which makes argument a common individual trap word to memorize."
+  },
+  {
+    "id": 270,
+    "domain": "written_communication",
+    "front": "What is the rule for changing y to i before a suffix?",
+    "back": "When a word ends in a consonant plus y, the y usually changes to i before a suffix, unless that suffix already starts with i, such as the suffix ing."
+  },
+  {
+    "id": 271,
+    "domain": "written_communication",
+    "front": "Is carryed or carried correct?",
+    "back": "Carried is correct. Carry ends in a consonant plus y, so the y changes to i before the suffix ed. Carrying keeps the y unchanged because ing already starts with i."
+  },
+  {
+    "id": 272,
+    "domain": "written_communication",
+    "front": "study, studies, studying",
+    "back": "Consonant plus y changes to i before the suffix es, giving studies. Before the suffix ing the y is kept unchanged to avoid a double i, giving studying instead of studiing."
+  },
+  {
+    "id": 273,
+    "domain": "written_communication",
+    "front": "play, played, playing",
+    "back": "Play ends in a vowel plus y, so the y is kept before any suffix. Both played and playing stay unchanged, unlike a consonant-plus-y word such as carry or study."
+  },
+  {
+    "id": 274,
+    "domain": "written_communication",
+    "front": "Is colour or color correct in Canada?",
+    "back": "Colour is correct, keeping the u. American spelling drops it to color. On a Canadian police exam, color should be treated as the misspelled option whenever it appears."
+  },
+  {
+    "id": 275,
+    "domain": "written_communication",
+    "front": "behaviour, favour, honour, neighbour, labour",
+    "back": "All five keep the Canadian u in the our ending. American spelling drops the u in every one of these words, giving behavior, favor, honor, neighbor, and labor instead."
+  },
+  {
+    "id": 276,
+    "domain": "written_communication",
+    "front": "Is centre or center correct in Canada?",
+    "back": "Centre is correct, using the British re ordering. American spelling reorders it to center. This pattern applies to a specific list of words, not every word ending in that sound."
+  },
+  {
+    "id": 277,
+    "domain": "written_communication",
+    "front": "theatre, metre, litre, fibre",
+    "back": "All four use the Canadian re ending rather than the American er ending. American spelling reorders each one to theater, meter, liter, and fiber instead."
+  },
+  {
+    "id": 278,
+    "domain": "written_communication",
+    "front": "Why is officer correct in both Canadian and American spelling?",
+    "back": "Officer is not part of the re versus er pattern at all. It is correct as officer in both conventions, never officre, because that pattern only covers a specific list of words."
+  },
+  {
+    "id": 279,
+    "domain": "written_communication",
+    "front": "Is travelled or traveled correct in Canada?",
+    "back": "Travelled is correct, doubling the final l even though the stress falls on the first syllable. American spelling drops the second l, giving traveled, which reads as wrong on this exam."
+  },
+  {
+    "id": 280,
+    "domain": "written_communication",
+    "front": "cancelled, modelled, labelled, counselled, fuelled",
+    "back": "All five double the final l in Canadian spelling despite first-syllable stress. American spelling uses a single l in each: canceled, modeled, labeled, counseled, and fueled instead."
+  },
+  {
+    "id": 281,
+    "domain": "written_communication",
+    "front": "licence versus license",
+    "back": "In Canadian usage, licence is the noun, as in a driver's licence, and license is the verb, as in an officer is licensed to carry a firearm. American English uses license for both."
+  },
+  {
+    "id": 282,
+    "domain": "written_communication",
+    "front": "practice versus practise",
+    "back": "In Canadian usage, practice is the noun, as in standard practice, and practise is the verb, as in an officer practises restraint. American English uses practice for both the noun and the verb."
+  },
+  {
+    "id": 283,
+    "domain": "written_communication",
+    "front": "Is judgement or judgment correct here?",
+    "back": "Judgement, with the e, is the default Canadian spelling for general report writing. American spelling drops it to judgment. Expect the version without the e to be the misspelled option."
+  },
+  {
+    "id": 284,
+    "domain": "written_communication",
+    "front": "Why do candidates raised on American-set devices struggle with this section?",
+    "back": "Years of autocorrect toward American spelling create an invisible habit. This exam rewards the opposite Canadian convention, so candidates must consciously override that trained default on every question."
+  },
+  {
+    "id": 285,
+    "domain": "written_communication",
+    "front": "The officer requested to see the driver's license.",
+    "back": "Wrong. Licence here functions as a noun, a physical document, so it needs a c rather than an s. The corrected sentence should read the driver's licence."
+  },
+  {
+    "id": 286,
+    "domain": "written_communication",
+    "front": "compliment versus complement",
+    "back": "A compliment is praise, something nice said to someone. A complement is something that completes or goes well with something else, such as two units complementing each other's coverage area."
+  },
+  {
+    "id": 287,
+    "domain": "written_communication",
+    "front": "The officer received a compliment for her professionalism.",
+    "back": "Correct as written. Compliment here means praise, which matches the sentence. Complement would be wrong in this context since nothing is being completed or paired with anything else."
+  },
+  {
+    "id": 288,
+    "domain": "written_communication",
+    "front": "principal versus principle",
+    "back": "A principal is a person in charge or the primary thing, as in the principal reason. A principle is a rule or fundamental belief, as in a principle of law."
+  },
+  {
+    "id": 289,
+    "domain": "written_communication",
+    "front": "Officers must act according to sound principles of conduct.",
+    "back": "Correct as written. Principles here refers to guiding rules of conduct, which matches the sentence. Principals would wrongly suggest people or primary things rather than rules."
+  },
+  {
+    "id": 290,
+    "domain": "written_communication",
+    "front": "stationary versus stationery",
+    "back": "Stationary means not moving, staying in one place. Stationery refers to paper and writing materials, such as department letterhead used to write a report or memo."
+  },
+  {
+    "id": 291,
+    "domain": "written_communication",
+    "front": "The vehicle remained stationary at the intersection.",
+    "back": "Correct as written. Stationary here means not moving, which matches a vehicle that has stopped. Stationery would be wrong in this context since no paper or writing materials are involved."
+  },
+  {
+    "id": 292,
+    "domain": "written_communication",
+    "front": "What is the endings-first two-pass scanning technique?",
+    "back": "Pass one, read for overall shape and meaning to catch confused-word errors. Pass two, check only the last three to five letters of each word, where suffix and ending errors almost always live."
+  },
+  {
+    "id": 293,
+    "domain": "written_communication",
+    "front": "definitely, separate, necessary",
+    "back": "High-frequency words where the unstressed middle vowel sound is ambiguous when spoken, so your ear cannot help. These must be memorized as a fixed visual pattern rather than sounded out."
+  },
+  {
+    "id": 294,
+    "domain": "written_communication",
+    "front": "How should you build your personal spelling trouble list?",
+    "back": "Track every word you get wrong while practising and note the specific rule it violated, such as doubling, silent e, or a Canadian ending. Review that short list the night before the exam."
+  },
+  {
+    "id": 295,
+    "domain": "written_communication",
+    "front": "Why does the APCAT Synonyms section favour formal vocabulary?",
+    "back": "Because officers write incident reports, statements, and court briefs that face scrutiny from lawyers and judges. Formal, precise words like ascertain or belligerent say exactly what happened, while casual words like figure out or angry leave the reader guessing."
+  },
+  {
+    "id": 296,
+    "domain": "written_communication",
+    "front": "What is the technique for breaking down an unfamiliar word?",
+    "back": "Split the word into prefix, root, and suffix. Use the meaning of each recognizable piece to build a reasonable definition, then use that reasoning to eliminate two or three clearly wrong options before choosing among what remains."
+  },
+  {
+    "id": 297,
+    "domain": "written_communication",
+    "front": "Prefix: bene-",
+    "back": "Means good or well. Appears in benevolent, meaning wishing others well, and beneficial, meaning producing a good result. The everyday word benefit shares the same piece and helps you recall the meaning quickly."
+  },
+  {
+    "id": 298,
+    "domain": "written_communication",
+    "front": "Prefix: mal-",
+    "back": "Means bad or wrong. Appears in malicious, meaning intending harm, and malfunction, meaning working badly. A word starting with mal- almost always signals something negative, defective, or wrongful."
+  },
+  {
+    "id": 299,
+    "domain": "written_communication",
+    "front": "Prefix: anti-",
+    "back": "Means against. Appears in antagonist, one who works against another, and antidote, something that counters a poison. Look for anti- whenever a word describes opposition, resistance, or working against something."
+  },
+  {
+    "id": 300,
+    "domain": "written_communication",
+    "front": "Prefix: pre-",
+    "back": "Means before. Appears in premeditated, meaning thought out beforehand, and precede, meaning to come before. Common in report writing whenever you describe planning or events that happened prior to something else."
+  },
+  {
+    "id": 301,
+    "domain": "written_communication",
+    "front": "Prefix: post-",
+    "back": "Means after. Appears in postmortem, meaning after death, and posterior, meaning situated behind. It is the direct opposite of pre-, useful for placing events in sequence within a report."
+  },
+  {
+    "id": 302,
+    "domain": "written_communication",
+    "front": "Prefix: con- or co-",
+    "back": "Means with or together. Appears in cooperate, meaning to work together, and concur, meaning to agree together. Useful for spotting words describing collaboration, agreement, or shared action between people."
+  },
+  {
+    "id": 303,
+    "domain": "written_communication",
+    "front": "Prefix: de-",
+    "back": "Often means down, away, or reversal. Appears in detain, meaning to hold back, and devalue, meaning to lower the value of. Context decides whether it signals removal, reduction, or reversal of an action."
+  },
+  {
+    "id": 304,
+    "domain": "written_communication",
+    "front": "Prefix: in- or un-",
+    "back": "Usually means not, as in incoherent, not making sense, or unlawful, not lawful. Watch for in- also meaning into, as in inject, so confirm the rest of the word before assuming a negative meaning."
+  },
+  {
+    "id": 305,
+    "domain": "written_communication",
+    "front": "Root: cred",
+    "back": "Relates to belief or trust. Appears in credible, meaning believable, and credentials, meaning things that earn trust. Any word built on cred concerns whether a person or statement can be trusted."
+  },
+  {
+    "id": 306,
+    "domain": "written_communication",
+    "front": "Root: dict",
+    "back": "Relates to speaking or saying. Appears in dictate, meaning to say aloud for recording, and predict, meaning to say beforehand. Look for dict in words about speech, statements, or declarations."
+  },
+  {
+    "id": 307,
+    "domain": "written_communication",
+    "front": "Root: duc or duct",
+    "back": "Relates to leading. Appears in conduct, meaning to lead or direct, and induce, meaning to lead into a state or action. Useful for words describing guidance or causing something to happen."
+  },
+  {
+    "id": 308,
+    "domain": "written_communication",
+    "front": "Root: spect or spec",
+    "back": "Relates to seeing or looking. Appears in inspect, meaning to look into closely, and spectator, meaning one who looks on. Common in report writing for words about observation and examination."
+  },
+  {
+    "id": 309,
+    "domain": "written_communication",
+    "front": "Root: vid or vis",
+    "back": "Also relates to seeing. Appears in evident, meaning clearly seen, and visible, meaning able to be seen. A second seeing-root alongside spect, useful whenever spect does not fit the word."
+  },
+  {
+    "id": 310,
+    "domain": "written_communication",
+    "front": "Root: ject",
+    "back": "Relates to throwing. Appears in eject, meaning to throw out, and projectile, meaning something thrown forward. Look for ject when a word involves forceful expulsion or propulsion of something."
+  },
+  {
+    "id": 311,
+    "domain": "written_communication",
+    "front": "Root: mit or mis",
+    "back": "Relates to sending. Appears in transmit, meaning to send across, and dismiss, meaning to send away. Useful for words about communication being passed along or someone being sent off."
+  },
+  {
+    "id": 312,
+    "domain": "written_communication",
+    "front": "Suffix: -ology",
+    "back": "Means the study of. Appears in criminology, the study of crime, and psychology, the study of the mind. Signals that a word names an academic or systematic field of knowledge."
+  },
+  {
+    "id": 313,
+    "domain": "written_communication",
+    "front": "Suffix: -ist",
+    "back": "Means one who practices or does something. Appears in words naming a specialist or a person performing a field of work. Turns a field or action into the person who carries it out."
+  },
+  {
+    "id": 314,
+    "domain": "written_communication",
+    "front": "Suffix: -ify or -fy",
+    "back": "Means to make or cause. Appears in verify, meaning to make true, that is, to confirm, and clarify, meaning to make clear. Signals a verb describing bringing about a particular state."
+  },
+  {
+    "id": 315,
+    "domain": "written_communication",
+    "front": "Suffix: -tion or -sion",
+    "back": "Turns a verb into a noun describing an action or its result. Appears in detention, the act of detaining, and apprehension, the act of apprehending, or a feeling of dread. A common ending in report-writing nouns."
+  },
+  {
+    "id": 316,
+    "domain": "written_communication",
+    "front": "Credible versus credulous: how do they differ?",
+    "back": "Credible means believable and worthy of trust, as in a credible witness. Credulous means overly willing to believe things, that is, gullible, as in a credulous person who falls for scams. Same root, opposite direction of trust."
+  },
+  {
+    "id": 317,
+    "domain": "written_communication",
+    "front": "Affect versus effect: how do they differ as vocabulary?",
+    "back": "As a noun, affect refers to an observable emotional expression, as in a flat affect. Effect as a noun refers to a result or outcome, as in the effect of the medication. They name genuinely different concepts, not just a spelling quirk."
+  },
+  {
+    "id": 318,
+    "domain": "written_communication",
+    "front": "Elicit versus illicit: how do they differ?",
+    "back": "Elicit means to draw out or bring forth a response, as in eliciting a statement from a witness. Illicit means illegal or forbidden. They sound almost identical, which is exactly why the exam plants one as a trap for the other."
+  },
+  {
+    "id": 319,
+    "domain": "written_communication",
+    "front": "Complement versus compliment: how do they differ?",
+    "back": "Complement means to complete or go well with something, as in evidence that complements a witness statement. Compliment means praise or a flattering remark. Different meanings hiding behind nearly identical spelling."
+  },
+  {
+    "id": 320,
+    "domain": "written_communication",
+    "front": "Discreet versus discrete: how do they differ?",
+    "back": "Discreet means careful and unobtrusive, showing good judgment about what to reveal. Discrete means separate and distinct from other things. They sound identical when spoken, so meaning must be judged from context, not sound."
+  },
+  {
+    "id": 321,
+    "domain": "written_communication",
+    "front": "Flaunt versus flout: how do they differ?",
+    "back": "Flaunt means to show off, to display something proudly. Flout means to openly disregard a rule, as in flouting a court order. One concerns display, the other concerns defiance, despite the similar look and sound."
+  },
+  {
+    "id": 322,
+    "domain": "written_communication",
+    "front": "What is the difference between denotation and connotation?",
+    "back": "Denotation is a word's literal, dictionary definition. Connotation is the emotional shading, attitude, or judgment a word carries beyond that literal meaning. Two words can share a denotation while carrying very different connotations."
+  },
+  {
+    "id": 323,
+    "domain": "written_communication",
+    "front": "Frugal versus stingy: what does this pair teach about connotation?",
+    "back": "Both describe someone careful with money, so they share a denotation. Frugal carries a positive or neutral connotation, describing someone sensible and disciplined. Stingy carries a negative connotation, describing someone unpleasantly tight-fisted. Tone is what separates the two."
+  },
+  {
+    "id": 324,
+    "domain": "written_communication",
+    "front": "Assertive versus aggressive versus arrogant: how do connotations separate them?",
+    "back": "Assertive means expressing yourself confidently and directly without being pushed around, a positive tone. Aggressive adds a harsher, hostile edge implying a willingness to attack. Arrogant implies an unearned sense of superiority. Same general territory, very different emotional weight."
+  },
+  {
+    "id": 325,
+    "domain": "written_communication",
+    "front": "What two-step process finds the best synonym on a hard question?",
+    "back": "First use denotation to eliminate any option that is flatly wrong in literal meaning. Second use connotation to choose between the remaining close options by matching emotional tone. Denotation narrows the field, connotation picks the winner."
+  },
+  {
+    "id": 326,
+    "domain": "written_communication",
+    "front": "What should you do before locking in an option that looks instantly familiar?",
+    "back": "Pause for one extra second and state that option's actual definition in your head. If you only recognized it because it looks or sounds like the target word, treat that instant match as a warning sign, not a shortcut."
+  },
+  {
+    "id": 327,
+    "domain": "written_communication",
+    "front": "What should you do when none of the four options feels like a perfect synonym?",
+    "back": "Remember the question asks for the closest meaning, not an identical one. Go through each option and name the specific flaw, too strong, too weak, wrong connotation, or a different concept, rather than relying on a vague feeling that it is not quite right."
+  },
+  {
+    "id": 328,
+    "domain": "written_communication",
+    "front": "Reluctant versus refusing: what is the difference in degree?",
+    "back": "Refusing describes an active, completed decision not to do something. Reluctant describes hesitation and unwillingness, someone who may still do the thing but is dragging their feet. The gap is in degree, not just in raw meaning."
+  },
+  {
+    "id": 329,
+    "domain": "written_communication",
+    "front": "Vocabulary word: commence",
+    "back": "Means to begin or start formally. A more formal register alternative to start, commonly used in report writing, as in the officer commenced the investigation at 0800 hours."
+  },
+  {
+    "id": 330,
+    "domain": "written_communication",
+    "front": "Vocabulary word: ascertain",
+    "back": "Means to find out or establish with certainty through checking or investigation. A formal alternative to figure out, as in officers ascertained the vehicle's registered owner before proceeding."
+  },
+  {
+    "id": 331,
+    "domain": "written_communication",
+    "front": "Vocabulary word: corroborate",
+    "back": "Means to confirm or support a statement or claim using additional independent evidence. Used when a second source backs up a witness account, as in the security footage corroborated her statement."
+  },
+  {
+    "id": 332,
+    "domain": "written_communication",
+    "front": "Vocabulary word: belligerent",
+    "back": "Means hostile and aggressive, ready to fight. A precise formal alternative to the vague word angry, signalling specifically that a subject was combative rather than merely upset or annoyed."
+  },
+  {
+    "id": 333,
+    "domain": "written_communication",
+    "front": "Vocabulary word: erratic",
+    "back": "Means unpredictable and lacking a consistent pattern, wandering irregularly. Used to describe behaviour or movement that is inconsistent, as in the driver's erratic lane changes prompted a traffic stop."
+  },
+  {
+    "id": 334,
+    "domain": "written_communication",
+    "front": "Vocabulary word: evasive",
+    "back": "Means avoiding direct answers or honest engagement, deliberately vague. Used to describe someone dodging questions, as in the subject gave evasive answers about his whereabouts that evening."
+  },
+  {
+    "id": 335,
+    "domain": "written_communication",
+    "front": "Vocabulary word: coherent",
+    "back": "Means making logical sense, able to speak or think clearly and consistently. Its opposite, incoherent, describes speech or thought that does not make sense, a distinction often noted in impairment assessments."
+  },
+  {
+    "id": 336,
+    "domain": "problem_analysis",
+    "front": "What does the Navigation and Map Reading section actually measure?",
+    "back": "It measures whether you can follow written rules exactly under time pressure, not real driving knowledge or traffic law. The map is a simplified grid with one-way arrows and closures; everything you need is printed on it."
+  },
+  {
+    "id": 337,
+    "domain": "problem_analysis",
+    "front": "True or false: you should use real-world driving instinct to fix an unclear route on the map.",
+    "back": "False. The map is the entire universe of truth. If a street is not marked one-way, treat it as two-way. If it is not marked closed, treat it as open. Never add or ignore rules that are not shown."
+  },
+  {
+    "id": 338,
+    "domain": "problem_analysis",
+    "front": "What are the only two special markings you need to look for on an APCAT navigation map?",
+    "back": "One-way arrows, which restrict a street segment to a single direction, and X marks or closure symbols, which block a street segment entirely in both directions."
+  },
+  {
+    "id": 339,
+    "domain": "problem_analysis",
+    "front": "What is the correct order of operations before comparing any route options?",
+    "back": "First find every one-way arrow, second find every closure or X mark, third locate the Start and destination points, and only after that read the four route options."
+  },
+  {
+    "id": 340,
+    "domain": "problem_analysis",
+    "front": "Why does the exam reward finding arrows and closures before reading the options?",
+    "back": "Candidates who jump straight to comparing routes often half convince themselves an option is shortest before noticing a one-way arrow that eliminates it. Front-loading rule-finding prevents that mistake."
+  },
+  {
+    "id": 341,
+    "domain": "problem_analysis",
+    "front": "How should you phrase a one-way rule to yourself while scanning a map?",
+    "back": "Say it as a full sentence, such as \"Elm Street between 2nd and 3rd only allows travel northbound.\" Naming the exact street, cross streets, and direction locks the rule into memory before you look at options."
+  },
+  {
+    "id": 342,
+    "domain": "problem_analysis",
+    "front": "Does a closure on Oak Street between 3rd and 4th affect Oak Street between 4th and 5th?",
+    "back": "No. A closure applies only to the exact block segment named, between two specific intersections. Adjacent segments of the same street are unaffected unless separately marked."
+  },
+  {
+    "id": 343,
+    "domain": "problem_analysis",
+    "front": "What should your mental checklist look like after scanning a map, before reading options?",
+    "back": "A short list naming each restriction exactly, for example \"Spruce Street one-way eastbound between 1st and 2nd. Birch Street closed between 3rd and 4th. Nothing else restricted.\""
+  },
+  {
+    "id": 344,
+    "domain": "problem_analysis",
+    "front": "What phrase in almost every question stem is a trap if read too quickly?",
+    "back": "\"Shortest route.\" The exam always means shortest legal route, even when the word legal is not repeated, so pure distance can never be compared before legality is checked."
+  },
+  {
+    "id": 345,
+    "domain": "problem_analysis",
+    "front": "A route has the fewest total blocks but drives one block against a one-way arrow. Is it a valid answer?",
+    "back": "No. An illegal shortcut is disqualified before distance is even compared, no matter how short it would have been on an unrestricted map."
+  },
+  {
+    "id": 346,
+    "domain": "problem_analysis",
+    "front": "Describe the typical pattern of four route options in this section.",
+    "back": "Usually one is genuinely shortest but illegal, one is legal but longer than necessary, one may combine both problems, and one is fully legal and truly shortest. Your job is to eliminate rule breakers first."
+  },
+  {
+    "id": 347,
+    "domain": "problem_analysis",
+    "front": "What is Step One of the elimination method?",
+    "back": "Trace each of the four options segment by segment against your checklist. At each segment ask only whether it breaks a one-way rule or crosses a closed block; if yes, eliminate that whole option immediately."
+  },
+  {
+    "id": 348,
+    "domain": "problem_analysis",
+    "front": "In Step One of elimination, once a single segment breaks a rule, what should you do?",
+    "back": "Cross the entire option out immediately and move to the next one. You do not need to check its remaining segments or think about its length at all."
+  },
+  {
+    "id": 349,
+    "domain": "problem_analysis",
+    "front": "What is Step Two of the elimination method?",
+    "back": "After checking all four options, see how many remain legal. If exactly one option survives, it is the answer by default and you do not need to compare lengths at all."
+  },
+  {
+    "id": 350,
+    "domain": "problem_analysis",
+    "front": "What is Step Three of the elimination method?",
+    "back": "If more than one option survives the legality check, compare their lengths in block segments. The legal survivor with the fewest segments is the correct answer."
+  },
+  {
+    "id": 351,
+    "domain": "problem_analysis",
+    "front": "Why is checking legality before length faster than checking both at once?",
+    "back": "It turns a hard four-way comparison into at most a two or three way length comparison among only the legal survivors, saving time and preventing the mistake of picking a shortest-looking but illegal route."
+  },
+  {
+    "id": 352,
+    "domain": "problem_analysis",
+    "front": "What does one segment mean when counting a route's length?",
+    "back": "One move from an intersection to the very next adjacent intersection, in any of the four directions. An instruction like \"go south three blocks\" counts as three segments, not one."
+  },
+  {
+    "id": 353,
+    "domain": "problem_analysis",
+    "front": "Why should you not judge route length by eye on this section?",
+    "back": "APCAT maps are not drawn to scale; block lengths on the page can vary for layout reasons even though they represent equal blocks in the scenario. Always count segments instead of trusting how long a line looks."
+  },
+  {
+    "id": 354,
+    "domain": "problem_analysis",
+    "front": "What is a good habit for tallying a route's length while tracing it?",
+    "back": "Write a running total after each leg rather than adding everything at the end from memory. For \"east two blocks, south one block, east one block, south two blocks,\" jot down 2, then 3, then 4, then 6."
+  },
+  {
+    "id": 355,
+    "domain": "problem_analysis",
+    "front": "What is a \"jog\" in a route description, and why is it a common trap?",
+    "back": "A short detour off the direct path and back onto it again. It might only add two extra segments, which can look deceptively close to the shortest option if you eyeball the map instead of counting."
+  },
+  {
+    "id": 356,
+    "domain": "problem_analysis",
+    "front": "If two legal survivor routes tie at the same segment count, what should you do?",
+    "back": "Treat the tie as a cue to recount both routes carefully, since test writers usually design the map so exactly one option reaches the true minimum. A clean tie is rare and worth double-checking."
+  },
+  {
+    "id": 357,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: a one-way arrow points east on Maple between 1st and 2nd. A route goes west from 2nd and Maple to 1st and Maple. Legal or illegal?",
+    "back": "Illegal. The route travels against the marked direction on that exact segment, so it is eliminated on that single move regardless of how the rest of the route looks."
+  },
+  {
+    "id": 358,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: Larch Street is closed between 1st and 2nd. A route travels from 2nd and Larch straight through to 1st and Larch. Legal or illegal?",
+    "back": "Illegal. Driving through a closed block segment eliminates the whole route completely, exactly the same as a one-way violation does, regardless of the route's total length."
+  },
+  {
+    "id": 359,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: 2nd Street is one-way southbound between Oak and Fir. A route travels south from Oak and 2nd to Fir and 2nd. Legal or illegal?",
+    "back": "Legal. The route travels in the same direction the arrow allows, so this segment passes the check. Continue tracing the rest of the route against the checklist before deciding on the whole option."
+  },
+  {
+    "id": 360,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: a route avoids every marked one-way street and every closure, but loops three extra blocks south and back north. Is it the correct answer?",
+    "back": "Not necessarily. It is fully legal, but if a shorter legal route also exists among the options, the shorter one wins. Legality alone does not guarantee the shortest answer."
+  },
+  {
+    "id": 361,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: Option one is shortest but illegal, Option two is legal but longer, Option three is both illegal and longer. What must Option four be to be correct?",
+    "back": "Option four must be both fully legal and truly the shortest among the legal options. Being merely legal, or merely short, is not enough on its own."
+  },
+  {
+    "id": 362,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: Aspen Street is one-way westbound between 2nd and 3rd. A route goes east from 2nd and Aspen to 3rd and Aspen. Legal or illegal?",
+    "back": "Illegal. This segment travels eastbound directly against the westbound arrow, so the entire option is eliminated on that one move, no matter how efficient the rest of the path looks."
+  },
+  {
+    "id": 363,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: a route travels along Willow Street the whole way and never touches a restricted stretch of Aspen or a closed stretch of Birch. Legal or illegal?",
+    "back": "Legal. A route that never crosses any marked restriction passes the legality check entirely, regardless of how many total segments it takes to reach the destination."
+  },
+  {
+    "id": 364,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: two legal routes remain after elimination, one totalling six segments and one totalling eight segments. Which is correct?",
+    "back": "The six-segment route is correct. Once legality has narrowed the field, the surviving route with the fewest block segments is always the answer."
+  },
+  {
+    "id": 365,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: a legal route includes a needless jog north one block and back south one block off the direct path. What does this cost it?",
+    "back": "Two extra segments compared to the most direct legal path. It stays legal, but the extra segments likely make it longer than another legal option, so it is probably a trap answer."
+  },
+  {
+    "id": 366,
+    "domain": "problem_analysis",
+    "front": "What is the very first thing you should do when a new navigation map appears?",
+    "back": "Scan the entire map for one-way arrows before anything else. Note the exact street, cross streets, and direction for each one you find."
+  },
+  {
+    "id": 367,
+    "domain": "problem_analysis",
+    "front": "After finding all one-way arrows, what is the second thing you should scan for?",
+    "back": "Every X mark or closure symbol on the map, noting the exact block segment each one blocks, meaning the two intersections it sits between."
+  },
+  {
+    "id": 368,
+    "domain": "problem_analysis",
+    "front": "True or false: a one-way violation and a closure disqualify a route equally.",
+    "back": "True. Whether a segment breaks a one-way rule or crosses a closed block, the effect is identical: the entire route option is eliminated on that single segment."
+  },
+  {
+    "id": 369,
+    "domain": "problem_analysis",
+    "front": "What kind of outside knowledge, if any, do you need for this section?",
+    "back": "None. You need no outside knowledge of traffic law, road signs, or real city layouts. Every rule you need is printed directly on the map and in the route descriptions."
+  },
+  {
+    "id": 370,
+    "domain": "problem_analysis",
+    "front": "Why is this section best described as a logic puzzle with a map skin?",
+    "back": "Because success depends on carefully applying a small set of stated rules and counting accurately, not on real driving experience. It rewards checklist discipline over real-world intuition."
+  },
+  {
+    "id": 371,
+    "domain": "problem_analysis",
+    "front": "Complete the method: check legality first, then compare what?",
+    "back": "Lengths, but only among the routes that already passed the legality check. Never compare the length of an illegal route to a legal one, since the illegal one is already disqualified."
+  },
+  {
+    "id": 372,
+    "domain": "problem_analysis",
+    "front": "A route instruction reads \"south three blocks, east two blocks.\" How many total segments is that?",
+    "back": "Five segments. Add the block counts within each instruction rather than counting the number of instructions or turns; three blocks south plus two blocks east equals five moves total."
+  },
+  {
+    "id": 373,
+    "domain": "problem_analysis",
+    "front": "Why might a candidate wrongly pick an illegal route as the answer?",
+    "back": "Because they measured pure distance first and picked the option with the fewest blocks, without checking whether it obeyed every one-way arrow and closure. Checking legality first prevents this exact mistake."
+  },
+  {
+    "id": 374,
+    "domain": "problem_analysis",
+    "front": "What single question should you ask at each segment while tracing a route in Step One?",
+    "back": "Does this move break a one-way rule, or does it cross a closed block? A yes to either question eliminates the entire option immediately."
+  },
+  {
+    "id": 375,
+    "domain": "problem_analysis",
+    "front": "Mini scenario: after elimination, exactly one route option remains fully legal. Do you still need to count its segments?",
+    "back": "No. A lone legal survivor wins by default. Counting segments only matters when more than one option survives the legality check."
+  },
+  {
+    "id": 376,
+    "domain": "problem_analysis",
+    "front": "What three moves should you repeat for every navigation question on the real exam?",
+    "back": "Find every one-way arrow and closure before reading options, eliminate any option breaking a rule on even one segment, then count block segments carefully on the remaining legal options and pick the lowest total."
+  },
+  {
+    "id": 377,
+    "domain": "problem_analysis",
+    "front": "What are the five steps for solving any APCAT word problem?",
+    "back": "Identify what is being asked, identify the given numbers and what each means, write the expression or equation, solve the arithmetic step by step, then sanity check the answer against the original question."
+  },
+  {
+    "id": 378,
+    "domain": "problem_analysis",
+    "front": "In the five-step word problem method, what does step one require?",
+    "back": "Find the question in the problem and state exactly what quantity you need to find, such as a time, a distance, a percentage, a count, or a cost."
+  },
+  {
+    "id": 379,
+    "domain": "problem_analysis",
+    "front": "In the five-step word problem method, what does step two require?",
+    "back": "Pull out every given number in the problem and label what each one represents, since word problems often bury useful numbers inside irrelevant details."
+  },
+  {
+    "id": 380,
+    "domain": "problem_analysis",
+    "front": "In the five-step word problem method, what does step three require?",
+    "back": "Write the expression or equation that connects the given numbers to the quantity you are solving for, applying the correct formula for that type of problem."
+  },
+  {
+    "id": 381,
+    "domain": "problem_analysis",
+    "front": "In the five-step word problem method, what does step four require?",
+    "back": "Solve the equation one operation at a time, keeping careful track of your units throughout the calculation so nothing gets mismatched along the way."
+  },
+  {
+    "id": 382,
+    "domain": "problem_analysis",
+    "front": "In the five-step word problem method, what does step five require, and why do most candidates skip it?",
+    "back": "Sanity check the answer against the original question by asking whether the number makes sense in the real world. Most candidates skip this step, but it catches wrong signs, misplaced decimals, and swapped numbers."
+  },
+  {
+    "id": 383,
+    "domain": "problem_analysis",
+    "front": "What formula connects distance, rate, and time?",
+    "back": "Distance equals rate multiplied by time, written D equals R times T. Knowing any two of the three values lets you solve directly for the third one."
+  },
+  {
+    "id": 384,
+    "domain": "problem_analysis",
+    "front": "How do you find time when you know distance and rate?",
+    "back": "Divide distance by rate. For example, a trip of 84 kilometres at 56 kilometres per hour takes 84 divided by 56, which equals 1.5 hours, or 1 hour 30 minutes."
+  },
+  {
+    "id": 385,
+    "domain": "problem_analysis",
+    "front": "How do you find rate, or speed, when you know distance and time?",
+    "back": "Divide distance by time. This isolates the rate from the distance-rate-time relationship and gives the average speed needed to cover that distance in that amount of time."
+  },
+  {
+    "id": 386,
+    "domain": "problem_analysis",
+    "front": "In a meeting problem, where two vehicles start apart and travel toward each other, how do you find their combined closing speed?",
+    "back": "Add the two speeds together. The gap between the vehicles closes at a rate equal to the sum of their speeds, so time to meet equals the starting distance divided by that sum."
+  },
+  {
+    "id": 387,
+    "domain": "problem_analysis",
+    "front": "In a catch-up problem, where one vehicle chases another travelling the same direction, how do you find the closing speed?",
+    "back": "Subtract the slower speed from the faster speed. Unlike a meeting problem the speeds do not add, because both vehicles move the same way and only the difference closes the gap."
+  },
+  {
+    "id": 388,
+    "domain": "problem_analysis",
+    "front": "What is the formula for percentage change?",
+    "back": "The new value minus the old value, divided by the old value, then multiplied by 100. This gives the percentage the value rose or fell relative to where it started."
+  },
+  {
+    "id": 389,
+    "domain": "problem_analysis",
+    "front": "What is the formula for finding what percentage one number is of another?",
+    "back": "Divide the part by the whole, then multiply by 100. This tells you what share the smaller number represents of the larger total it belongs to."
+  },
+  {
+    "id": 390,
+    "domain": "problem_analysis",
+    "front": "When calculating a percentage decrease, should you divide the difference by the original value or the new value?",
+    "back": "Always divide by the original, older value, never the new one. A drop from 350 to 280 is a decrease of 70, measured against 350, giving 20 percent, not against 280."
+  },
+  {
+    "id": 391,
+    "domain": "problem_analysis",
+    "front": "What is the method for splitting a total according to a given ratio?",
+    "back": "Add the parts of the ratio to find the total number of shares, divide the total amount by that number of shares to get the value of one share, then multiply that value by each ratio part."
+  },
+  {
+    "id": 392,
+    "domain": "problem_analysis",
+    "front": "What is the method for scaling a known ratio to a new total?",
+    "back": "Divide the new total by the matching known quantity to find a scaling factor, then multiply every other part of the original ratio by that same factor to keep the relationship unchanged."
+  },
+  {
+    "id": 393,
+    "domain": "problem_analysis",
+    "front": "What is the recommended method for turning an algebra word problem into an equation?",
+    "back": "Assign a letter to the unknown you know least about, write an equation that captures the sentence exactly, then gather the unknown terms on one side and the plain numbers on the other before dividing to isolate the unknown."
+  },
+  {
+    "id": 394,
+    "domain": "problem_analysis",
+    "front": "Why does 'three more than double a number' translate to 2p plus 3 rather than 2 times (p plus 3)?",
+    "back": "Doubling applies to the number alone before the 3 is added on, so the operations must stay in that order. Writing 2 times (p plus 3) would double the 3 as well, changing the meaning of the sentence."
+  },
+  {
+    "id": 395,
+    "domain": "problem_analysis",
+    "front": "What are the three most common conversion factors for APCAT unit conversion problems?",
+    "back": "60 minutes in an hour, 1,000 metres in a kilometre, and 3.6 to convert a speed in metres per second directly into kilometres per hour."
+  },
+  {
+    "id": 396,
+    "domain": "problem_analysis",
+    "front": "What is the fast mental math shortcut for finding 15 percent of a number?",
+    "back": "Find 10 percent by moving the decimal point one place left, then add half of that 10 percent value, since 5 percent is half of 10 percent. The two amounts together equal 15 percent."
+  },
+  {
+    "id": 397,
+    "domain": "problem_analysis",
+    "front": "What is the fast mental math shortcut for finding 20 percent of a number?",
+    "back": "Find 10 percent first, by moving the decimal point one place left, then double that value. Doubling the 10 percent figure gives you 20 percent directly."
+  },
+  {
+    "id": 398,
+    "domain": "problem_analysis",
+    "front": "What is the fast mental math shortcut for finding 5 percent of a number?",
+    "back": "Find 10 percent first, by moving the decimal point one place left, then take half of that value. Halving the 10 percent figure gives you 5 percent directly."
+  },
+  {
+    "id": 399,
+    "domain": "problem_analysis",
+    "front": "What is the fast mental math shortcut for finding 25 percent of a number?",
+    "back": "Take one quarter of the total directly, by dividing the number by 4. This avoids building up from 10 percent and is usually the fastest route to a 25 percent figure."
+  },
+  {
+    "id": 400,
+    "domain": "problem_analysis",
+    "front": "What is the round and adjust technique for fast mental multiplication?",
+    "back": "Split a harder multiplication into friendly pieces, usually a times-10 part and a times-5 or times-1 part, then add the pieces together. This is almost always faster than multiplying the full numbers directly."
+  },
+  {
+    "id": 401,
+    "domain": "problem_analysis",
+    "front": "Why should you estimate the size of an answer before calculating it precisely?",
+    "back": "A rough estimate is your fastest sanity check. It catches decimal errors and misplaced operations immediately, before they cost a mark, by giving a sense of roughly how large the real answer should be."
+  },
+  {
+    "id": 402,
+    "domain": "problem_analysis",
+    "front": "What should you do if one word problem is taking far longer than the others in the timed section?",
+    "back": "Mark your best guess, flag it if the format allows, and move on. Protect your average pace across the whole section rather than spending too long defending your record on one hard question."
+  },
+  {
+    "id": 403,
+    "domain": "problem_analysis",
+    "front": "156 case files need to be split evenly among 4 analysts. How many files does each analyst review?",
+    "back": "39 files each. Divide 156 by 4 to get 39. Check: 39 times 4 equals 156, matching the total, and 39 files is a reasonable individual workload."
+  },
+  {
+    "id": 404,
+    "domain": "problem_analysis",
+    "front": "A patrol car travels 84 kilometres at an average speed of 56 kilometres per hour. How long does the trip take?",
+    "back": "1 hour 30 minutes. Divide 84 by 56 to get 1.5 hours, then convert the 0.5 hour to minutes by multiplying by 60, giving 30 minutes. Check: 56 times 1.5 equals 84."
+  },
+  {
+    "id": 405,
+    "domain": "problem_analysis",
+    "front": "Two patrol units start 240 kilometres apart and drive toward each other at 55 km/h and 65 km/h. How long until they meet?",
+    "back": "2 hours. Add the speeds, 55 plus 65 equals 120 km/h combined, then divide the starting distance by that combined speed, 240 divided by 120 equals 2 hours. Check: 110 plus 130 equals 240."
+  },
+  {
+    "id": 406,
+    "domain": "problem_analysis",
+    "front": "A patrol car at 80 km/h chases a vehicle 40 kilometres ahead travelling the same direction at 60 km/h. How long to catch it?",
+    "back": "2 hours. Since both travel the same direction, subtract the speeds, 80 minus 60 equals 20 km/h closing speed, then divide the gap by that difference, 40 divided by 20 equals 2 hours."
+  },
+  {
+    "id": 407,
+    "domain": "problem_analysis",
+    "front": "Reported incidents rose from 220 in March to 253 in April. What was the percentage increase?",
+    "back": "15 percent. Subtract 220 from 253 to get 33, then divide 33 by the original value 220 and multiply by 100. Check: 15 percent of 220 is 33, and 220 plus 33 equals 253."
+  },
+  {
+    "id": 408,
+    "domain": "problem_analysis",
+    "front": "Of 220 March incidents, 55 happened on a weekend. What percentage of March's incidents were on a weekend?",
+    "back": "25 percent. Divide the part, 55, by the whole, 220, then multiply by 100. Check: 25 percent of 220 is 55, matching the given number, and one quarter of a month is plausible."
+  },
+  {
+    "id": 409,
+    "domain": "problem_analysis",
+    "front": "A value drops from 350 to 280. What is the percentage decrease, and against which value is it measured?",
+    "back": "20 percent, measured against the original value of 350. The decrease of 70 is divided by 350, not by the new value 280, giving 70 divided by 350 times 100, which equals 20 percent."
+  },
+  {
+    "id": 410,
+    "domain": "problem_analysis",
+    "front": "84 recruits are split into two groups in a ratio of 3 to 4. How many go into each group?",
+    "back": "36 and 48. Add the ratio parts, 3 plus 4 equals 7 shares, then divide 84 by 7 to get 12 per share. Group one gets 3 times 12, which is 36; group two gets 48."
+  },
+  {
+    "id": 411,
+    "domain": "problem_analysis",
+    "front": "96 supplies are split between two units in a ratio of 5 to 3. How many does each unit receive?",
+    "back": "60 and 36. Add the ratio parts, 5 plus 3 equals 8 shares, then divide 96 by 8 to get 12 per share. One unit gets 5 times 12, which is 60; the other gets 36."
+  },
+  {
+    "id": 412,
+    "domain": "problem_analysis",
+    "front": "Staffing guidelines call for 2 supervisors for every 9 officers. A shift has 45 officers. How many supervisors are needed?",
+    "back": "10 supervisors. Divide the new officer count by the standard one, 45 divided by 9 equals a scaling factor of 5, then multiply the standard 2 supervisors by 5 to get 10."
+  },
+  {
+    "id": 413,
+    "domain": "problem_analysis",
+    "front": "A workshop needs 3 mechanics for every 8 vehicles serviced. If the fleet grows to 56 vehicles, how many mechanics are needed?",
+    "back": "21 mechanics. Divide the new vehicle count by the standard one, 56 divided by 8 equals a scaling factor of 7, then multiply the standard 3 mechanics by 7 to get 21."
+  },
+  {
+    "id": 414,
+    "domain": "problem_analysis",
+    "front": "Chen issued 3 more tickets than double Patel's total, and together they issued 39 tickets. How many did each officer issue?",
+    "back": "Patel issued 12, Chen issued 27. Let p equal Patel's tickets, so p plus (2p plus 3) equals 39, giving 3p equals 36, so p equals 12. Chen issued 2 times 12 plus 3, which is 27."
+  },
+  {
+    "id": 415,
+    "domain": "problem_analysis",
+    "front": "A witness estimates a vehicle's speed at 20 metres per second. What is that speed in kilometres per hour?",
+    "back": "72 kilometres per hour. Multiply the metres-per-second value by the conversion factor 3.6, since 20 times 3.6 equals 72. This is below a 100 km/h posted limit, so the figure is realistic."
+  },
+  {
+    "id": 416,
+    "domain": "problem_analysis",
+    "front": "A call's response time is recorded as 105 minutes. Express that as hours and minutes, and as a decimal number of hours.",
+    "back": "1 hour 45 minutes, or 1.75 hours as a decimal. 60 minutes make one hour, leaving 45 minutes over, and 105 divided by 60 equals 1.75, since 45 minutes is three quarters of an hour."
+  },
+  {
+    "id": 417,
+    "domain": "problem_analysis",
+    "front": "Using the 10-percent-then-half shortcut, what is 15 percent of 340?",
+    "back": "51. Find 10 percent of 340, which is 34, then add half of that, which is 17. 34 plus 17 equals 51, matching the direct calculation of 340 times 0.15."
+  },
+  {
+    "id": 418,
+    "domain": "problem_analysis",
+    "front": "What three checks should you run on a number sequence, and in what order?",
+    "back": "Check differences between consecutive terms first, then ratios between consecutive terms, and only if neither is consistent, check whether the sequence is two interleaved patterns running side by side."
+  },
+  {
+    "id": 419,
+    "domain": "problem_analysis",
+    "front": "Why is it risky to lock in an arithmetic rule after checking only the first gap in a sequence?",
+    "back": "A single matching gap can happen by coincidence in a sequence that is actually two interleaved patterns. Checking only the first gap is a common way candidates get fooled into a wrong rule."
+  },
+  {
+    "id": 420,
+    "domain": "problem_analysis",
+    "front": "What is a difference pattern, and how do you find one?",
+    "back": "An arithmetic pattern where the same number is added or subtracted at every step. Subtract each term from the one after it; if every result matches across the whole sequence, you have found it."
+  },
+  {
+    "id": 421,
+    "domain": "problem_analysis",
+    "front": "What is a ratio pattern, and how do you find one?",
+    "back": "A geometric pattern where each term is multiplied by the same factor. Divide each term by the term before it; if every quotient matches across the whole sequence, you have found it."
+  },
+  {
+    "id": 422,
+    "domain": "problem_analysis",
+    "front": "5, 11, 17, 23, 29 - what is the rule and the next term?",
+    "back": "Add 6 each step. 11-5=6, 17-11=6, 23-17=6, 29-23=6, all consistent. The next term is 29+6=35."
+  },
+  {
+    "id": 423,
+    "domain": "problem_analysis",
+    "front": "2, 6, 18, 54, 162 - what is the rule and the next term?",
+    "back": "Multiply by 3 each step. 6/2=3, 18/6=3, 54/18=3, 162/54=3, all consistent. The next term is 162x3=486."
+  },
+  {
+    "id": 424,
+    "domain": "problem_analysis",
+    "front": "100, 90, 80, 70 - what is the rule and the next term?",
+    "back": "Subtract 10 each step. 90-100=-10, 80-90=-10, 70-80=-10, all consistent. The next term is 70-10=60."
+  },
+  {
+    "id": 425,
+    "domain": "problem_analysis",
+    "front": "7, 14, 28, 56 - what is the rule and the next term?",
+    "back": "Multiply by 2 each step. 14/7=2, 28/14=2, 56/28=2, all consistent. The next term is 56x2=112."
+  },
+  {
+    "id": 426,
+    "domain": "problem_analysis",
+    "front": "What does it mean for a sequence to be two interleaved patterns?",
+    "back": "Two separate rules run at once inside one sequence, one through the odd-numbered positions and one through the even-numbered positions. Split the sequence into those two threads and check each one for its own difference or ratio rule."
+  },
+  {
+    "id": 427,
+    "domain": "problem_analysis",
+    "front": "9, 20, 11, 16, 13, 12 - split into two threads and find the seventh term.",
+    "back": "Odd positions 9, 11, 13 rise by 2 each step. Even positions 20, 16, 12 fall by 4 each step. The seventh term continues the odd thread: 13+2=15."
+  },
+  {
+    "id": 428,
+    "domain": "problem_analysis",
+    "front": "When should you suspect a sequence is actually two interleaved threads rather than one rule?",
+    "back": "When the differences and the ratios between consecutive terms are not consistent across the whole sequence, especially if the sequence looked arithmetic for the first couple of gaps and then stopped matching."
+  },
+  {
+    "id": 429,
+    "domain": "problem_analysis",
+    "front": "B, L, D, J, F, H, H, F - split into two threads and find the ninth term.",
+    "back": "Convert to positions 2, 12, 4, 10, 6, 8, 8, 6. Odd positions 2, 4, 6, 8 rise by 2 each step. Even positions 12, 10, 8, 6 fall by 2 each step. The ninth term continues the odd thread: 8+2=10, which is J."
+  },
+  {
+    "id": 430,
+    "domain": "problem_analysis",
+    "front": "What single fix makes letter sequences as easy to check as number sequences?",
+    "back": "Convert every letter to its position in the alphabet, A=1 through Z=26. The letter sequence becomes a number sequence, and you check it with the exact same difference, ratio, and interleaved-thread order."
+  },
+  {
+    "id": 431,
+    "domain": "problem_analysis",
+    "front": "What position is the letter M in the alphabet?",
+    "back": "M is the 13th letter of the alphabet. Counting from A=1, B=2, C=3 and onward in order gets you to M=13."
+  },
+  {
+    "id": 432,
+    "domain": "problem_analysis",
+    "front": "What position is the letter R in the alphabet?",
+    "back": "R is the 18th letter of the alphabet. Counting from A=1 in order, or from around the halfway point, gets you to R=18."
+  },
+  {
+    "id": 433,
+    "domain": "problem_analysis",
+    "front": "What is the shortcut for finding the alphabet position of a letter in the back half of the alphabet?",
+    "back": "Subtract the letter's position counted from the end of the alphabet from 27. For example, W is the fourth-last letter, so 27 minus 4 equals 23, which is W's position."
+  },
+  {
+    "id": 434,
+    "domain": "problem_analysis",
+    "front": "Using the back-half shortcut, what position is the letter Y?",
+    "back": "Y is the second-last letter of the alphabet, so 27 minus 2 equals 25. Y's alphabet position is 25."
+  },
+  {
+    "id": 435,
+    "domain": "problem_analysis",
+    "front": "After converting a letter sequence to numbers, what checking order do you use?",
+    "back": "The exact same order used for any number sequence: differences first, then ratios, then a check for two interleaved threads if neither of the first two checks produces a consistent rule."
+  },
+  {
+    "id": 436,
+    "domain": "problem_analysis",
+    "front": "C, F, I, L - what is the rule and the next letter?",
+    "back": "Convert to positions 3, 6, 9, 12. Each rises by 3, skipping two letters every step. The next position is 12+3=15, which converts back to the letter O."
+  },
+  {
+    "id": 437,
+    "domain": "problem_analysis",
+    "front": "Z, X, V, T - what is the rule and the next letter?",
+    "back": "Convert to positions 26, 24, 22, 20. Each falls by 2, skipping one letter every step. The next position is 20-2=18, which converts back to the letter R."
+  },
+  {
+    "id": 438,
+    "domain": "problem_analysis",
+    "front": "B, D, F, I, J - one letter breaks the skip-by-2 pattern. Which one, and what should it be?",
+    "back": "Convert to positions 2, 4, 6, 9, 10. The established rule adds 2 each step, so the fourth term should be 8, letter H, not 9, letter I. The fifth term, 10 or J, still fits the rule from the corrected value, confirming I is the outlier."
+  },
+  {
+    "id": 439,
+    "domain": "problem_analysis",
+    "front": "What must you always do when a sequence pairs a letter with a digit, such as A1, C3, E5?",
+    "back": "Check the letters and the numbers as two separate lines. Convert the letters to alphabet positions and check their own pattern, then check the attached numbers' pattern on its own, since the two parts do not always follow the same rule."
+  },
+  {
+    "id": 440,
+    "domain": "problem_analysis",
+    "front": "B2, D4, F6, H8 - what is the next term?",
+    "back": "Letters B, D, F, H convert to 2, 4, 6, 8, rising by 2 each step, so the next letter is 10, which is J. The numbers 2, 4, 6, 8 also rise by 2 each step, so the next number is 10. The next term is J10."
+  },
+  {
+    "id": 441,
+    "domain": "problem_analysis",
+    "front": "Why is a trap sequence pairing letters that skip by 1 position with numbers that double each time so dangerous?",
+    "back": "The two parts follow completely different rule types. A candidate who only checks the easier-to-see numeric pattern can get a confident wrong answer without ever verifying that the letters follow the same, or a different, logic."
+  },
+  {
+    "id": 442,
+    "domain": "problem_analysis",
+    "front": "What is the single biggest mistake candidates make on odd-one-out questions?",
+    "back": "Trying to spot the outlier by eye. A pattern broken by a small amount, such as one number off by just 1, is easy to miss visually under time pressure with a countdown clock running."
+  },
+  {
+    "id": 443,
+    "domain": "problem_analysis",
+    "front": "What is the reliable method for finding the odd one out in a set?",
+    "back": "Establish the rule from terms you can verify, then test every remaining item against that rule individually, one at a time, rather than scanning the set and waiting for something to jump out."
+  },
+  {
+    "id": 444,
+    "domain": "problem_analysis",
+    "front": "4, 8, 16, 33, 64 - which term breaks the pattern, and what should it be?",
+    "back": "The first two ratios, 8/4 and 16/8, both equal 2, establishing a multiply-by-2 rule. Applied forward, 16x2=32, not 33, so 33 is the broken term. Checking the final term, 32x2=64 matches the actual 64, confirming the rule and that 33 should have been 32."
+  },
+  {
+    "id": 445,
+    "domain": "problem_analysis",
+    "front": "Why does testing the term after a suspected broken term matter in an odd-one-out check?",
+    "back": "If the rule still holds for the term past the error, that proves the pattern is real and survives the mistake, rather than being a coincidence that happened to stop working right where you got suspicious."
+  },
+  {
+    "id": 446,
+    "domain": "problem_analysis",
+    "front": "In an odd-one-out set made of several short sequences rather than one long sequence, how do you find the one that does not fit?",
+    "back": "Find the rule that the majority of the short sequences share, then test each remaining sequence against that rule individually. Never rely on which sequence looks different at a glance."
+  },
+  {
+    "id": 447,
+    "domain": "problem_analysis",
+    "front": "What is step one of the six-step pattern method when a sequence contains letters?",
+    "back": "Convert every letter to its alphabet position before doing anything else, writing the numbers directly above or below the letters so you are not holding the conversion in your head while checking for a pattern."
+  },
+  {
+    "id": 448,
+    "domain": "problem_analysis",
+    "front": "What is step two of the six-step pattern method?",
+    "back": "Write out the difference between every pair of consecutive terms across the whole sequence, not just the first pair, lined up underneath the terms so you can see all of them at once."
+  },
+  {
+    "id": 449,
+    "domain": "problem_analysis",
+    "front": "What are steps three and four of the six-step pattern method?",
+    "back": "Step three: if every difference is the same, you have an arithmetic pattern and are done. Step four: if not, write out the ratio between every consecutive pair; if every ratio matches, you have a geometric pattern."
+  },
+  {
+    "id": 450,
+    "domain": "problem_analysis",
+    "front": "What is step five of the six-step pattern method?",
+    "back": "If neither the differences nor the ratios are consistent across the whole sequence, split it into two threads, the odd-numbered positions and the even-numbered positions, and run the difference and ratio checks on each thread separately."
+  },
+  {
+    "id": 451,
+    "domain": "problem_analysis",
+    "front": "What is step six, the final step, of the six-step pattern method?",
+    "back": "Apply the rule you found to every term in the sequence, including terms you have not directly used yet, before locking in your answer. This catches a rule that fit by coincidence but breaks down later in the sequence."
+  },
+  {
+    "id": 452,
+    "domain": "problem_analysis",
+    "front": "What is the first common trap in pattern recognition questions?",
+    "back": "A sequence that looks arithmetic for the first two or three terms because the early differences happen to match by coincidence, when the sequence is actually two interleaved patterns running side by side."
+  },
+  {
+    "id": 453,
+    "domain": "problem_analysis",
+    "front": "3, 9, 15, 6, 27, 3 - the first two gaps both equal 6. What is the real rule, and what is the seventh term?",
+    "back": "The pattern of 6, 6 suggests adding 6, predicting 21 next, but the actual term is 6. Split into threads: odd positions 3, 15, 27 add 12 each step; even positions 9, 6, 3 subtract 3 each step. The seventh term continues the odd thread: 27+12=39."
+  },
+  {
+    "id": 454,
+    "domain": "problem_analysis",
+    "front": "What is the second common trap in pattern recognition questions?",
+    "back": "A sequence combining a letter pattern and a number pattern moving together, where a candidate correctly solves the easier part, usually the numbers, and forgets to verify that the other part follows the same or a different rule."
+  },
+  {
+    "id": 455,
+    "domain": "problem_analysis",
+    "front": "Both common traps in this section share the same root cause. What is it?",
+    "back": "Stopping the checking process one step too early because an answer already feels confident. The fix for both is identical: write out every gap across the whole sequence and confirm the rule against every term before committing."
+  },
+  {
+    "id": 456,
+    "domain": "problem_analysis",
+    "front": "Why does the APCAT test pattern recognition with methodical checking rather than gut instinct?",
+    "back": "Police services want recruits who can work through evidence and dispatch information methodically under pressure rather than jumping to the first conclusion that feels correct, which is the real skill this section measures."
+  },
+  {
+    "id": 457,
+    "domain": "problem_analysis",
+    "front": "About how long should a well-drilled pattern recognition item take once you know the checking order?",
+    "back": "Under about fifteen seconds each, since almost every sequence on the test is built from a small handful of rule types you can check in a fixed, repeatable order."
+  },
+  {
+    "id": 458,
+    "domain": "problem_analysis",
+    "front": "True or false: two matching differences in a row is enough evidence to commit to an arithmetic rule.",
+    "back": "False. Two matching differences can occur by coincidence in a sequence that is really two interleaved patterns, so you must check every gap across the whole sequence before committing to a rule."
+  },
+  {
+    "id": 459,
+    "domain": "problem_analysis",
+    "front": "A2, C4, E8, G16 - the letters and numbers follow different rule types. What is the next term?",
+    "back": "Letters A, C, E, G convert to 1, 3, 5, 7, rising by 2 alphabet positions each step. Numbers 2, 4, 8, 16 double each step. The next letter is position 9, which is I, and the next number is 32, giving I32."
+  },
+  {
+    "id": 460,
+    "domain": "problem_analysis",
+    "front": "What does the Logical Reasoning and Deduction section actually test on the APCAT?",
+    "back": "It tests whether a conclusion is strictly guaranteed by the given premises, not whether it sounds plausible or matches what usually happens on patrol. If the premises do not force the conclusion, the conclusion is wrong even if it seems reasonable."
+  },
+  {
+    "id": 461,
+    "domain": "problem_analysis",
+    "front": "In logic questions, what are a premise and a conclusion?",
+    "back": "A premise is a statement given to you and treated as true for the question. The conclusion is the claim being tested. Your job is to check whether the premises force the conclusion to be true, rule it out, or leave it undecided."
+  },
+  {
+    "id": 462,
+    "domain": "problem_analysis",
+    "front": "What is the basic shape of a conditional statement, and what does it guarantee?",
+    "back": "A conditional has the form 'if A, then B.' It guarantees that whenever A is true, B must also be true. It says nothing about what happens when A is false and does not claim A is the only way B can occur."
+  },
+  {
+    "id": 463,
+    "domain": "problem_analysis",
+    "front": "If a rule states 'if A, then B,' can B happen for a reason other than A?",
+    "back": "Yes, unless the rule says 'if and only if.' 'If A, then B' guarantees B whenever A occurs, but it never claims A is the sole cause of B, so another factor could also produce B independently."
+  },
+  {
+    "id": 464,
+    "domain": "problem_analysis",
+    "front": "Given 'if A, then B,' what is the one valid way to flip the statement and keep it guaranteed true?",
+    "back": "The contrapositive: 'if not B, then not A.' If B never occurred, then whatever guarantees B could not have occurred either, so A must be false. This is logically identical to the original rule."
+  },
+  {
+    "id": 465,
+    "domain": "problem_analysis",
+    "front": "Why is the contrapositive of 'if A, then B' always valid?",
+    "back": "Because the original rule promises B whenever A is true. If B is false, A cannot be true, since a true A would have forced B to be true, contradicting the fact that B did not happen."
+  },
+  {
+    "id": 466,
+    "domain": "problem_analysis",
+    "front": "In conditional logic, what exactly is the fallacy called denying the antecedent?",
+    "back": "Wrongly turning 'if A, then B' into 'if not A, then not B.' It is invalid because the rule never claimed A was the only path to B, so something else could still produce B even when A is false."
+  },
+  {
+    "id": 467,
+    "domain": "problem_analysis",
+    "front": "Rule: if a suspect flees on foot, a perimeter is set up. A suspect did not flee on foot. Is 'no perimeter was set up' a valid conclusion?",
+    "back": "No, this is invalid. It denies the antecedent. The rule never said fleeing on foot was the only reason to set up a perimeter; another factor, like an armed threat, could still trigger one."
+  },
+  {
+    "id": 468,
+    "domain": "problem_analysis",
+    "front": "In conditional logic, what exactly is the fallacy called affirming the consequent?",
+    "back": "Wrongly turning 'if A, then B' into 'if B, then A.' It is invalid because B being true does not reveal why it is true; something other than A could also have caused B."
+  },
+  {
+    "id": 469,
+    "domain": "problem_analysis",
+    "front": "Rule: if a vehicle is stolen, it is flagged in the database. A vehicle is flagged in the database. Is 'the vehicle was stolen' a valid conclusion?",
+    "back": "No, this is invalid. It affirms the consequent. The rule only guarantees stolen vehicles get flagged; other reasons, such as a lien or a recall notice, could also cause a flag."
+  },
+  {
+    "id": 470,
+    "domain": "problem_analysis",
+    "front": "What is modus ponens, and is it a valid or invalid way to use a conditional?",
+    "back": "Modus ponens applies a rule forward: given 'if A, then B' and A is true, you validly conclude B is true. It is always valid, since the rule directly guarantees B whenever A occurs."
+  },
+  {
+    "id": 471,
+    "domain": "problem_analysis",
+    "front": "Rule: if evidence is collected at a scene, it must be logged within 24 hours. Constable Okafor collected a knife as evidence. What follows?",
+    "back": "The knife must be logged within 24 hours. This is valid modus ponens: A, evidence collected, is true, and the rule guarantees B, logged within 24 hours, whenever A is true."
+  },
+  {
+    "id": 472,
+    "domain": "problem_analysis",
+    "front": "Rule: if a call is classified active-threat, the on-call patrol supervisor personally oversees dispatch. Supervisor Alvarez, the on-call patrol supervisor that shift, did not personally oversee this dispatch. What must be true?",
+    "back": "The call was not classified as active-threat. This is the valid contrapositive: no personal oversight guarantees the call was not active-threat, since active-threat calls always get personal oversight."
+  },
+  {
+    "id": 473,
+    "domain": "problem_analysis",
+    "front": "In a conditional logic question, why might an option be wrong even without committing a named fallacy?",
+    "back": "The option can introduce information that appears nowhere in the premises, such as a specific new cause or actor. This is unsupported speculation, not a logical flip, and it is never guaranteed by the given rule alone."
+  },
+  {
+    "id": 474,
+    "domain": "problem_analysis",
+    "front": "When does a conditional rule guarantee both directions at once?",
+    "back": "Only when the passage explicitly says 'if and only if.' A plain 'if A, then B' guarantees just one direction; treating it as reversible without that exact wording is always a mistake."
+  },
+  {
+    "id": 475,
+    "domain": "problem_analysis",
+    "front": "On the APCAT, what exactly is a categorical syllogism in this section?",
+    "back": "Two statements about whole groups, usually using 'all,' 'some,' or 'no,' that let you reason about a specific member of one group. You must determine what is forced to be true for that member."
+  },
+  {
+    "id": 476,
+    "domain": "problem_analysis",
+    "front": "How does the two-circle test check whether a syllogism conclusion is valid?",
+    "back": "Draw one circle for each group and place the item according to the premises. If the conclusion holds no matter how you draw the circles, it is valid. If you can draw them so the premises stay true but the conclusion is false, it is invalid."
+  },
+  {
+    "id": 477,
+    "domain": "problem_analysis",
+    "front": "All sworn officers must complete yearly requalification. Constable Diallo is a sworn officer. What must be true, and why is it valid?",
+    "back": "Diallo must complete yearly requalification. The sworn officers circle sits entirely inside the requalification circle, so anyone placed in the sworn officers circle is automatically inside the requalification circle too."
+  },
+  {
+    "id": 478,
+    "domain": "problem_analysis",
+    "front": "In a categorical syllogism, what exactly is the undistributed middle fallacy?",
+    "back": "Concluding that a member of the larger shared group must belong to the smaller group, when the premises never established that the shared trait belongs exclusively to that smaller group."
+  },
+  {
+    "id": 479,
+    "domain": "problem_analysis",
+    "front": "All detectives carry a badge. Officer Wren carries a badge. Is 'Officer Wren is a detective' a valid conclusion?",
+    "back": "No, this is invalid, the undistributed middle. Wren only has to sit somewhere inside the badge-carrying circle. Patrol constables and sergeants also carry badges, so badge-carrying alone does not force detective status."
+  },
+  {
+    "id": 480,
+    "domain": "problem_analysis",
+    "front": "What syllogism shape is one of the most heavily tested traps on this section?",
+    "back": "'All X are Y, this item is Y, therefore this item is X.' It looks convincing but is invalid unless the passage also states that only X items are Y. Always draw the circles before trusting it."
+  },
+  {
+    "id": 481,
+    "domain": "problem_analysis",
+    "front": "Why is 'everyone who completes requalification is a sworn officer' not a guaranteed conclusion from 'all sworn officers must complete requalification'?",
+    "back": "This reverses the premise without support. The rule only places sworn officers inside the requalification circle; it never claims the requalification circle contains nothing else, so civilians or other roles could also complete it."
+  },
+  {
+    "id": 482,
+    "domain": "problem_analysis",
+    "front": "Why is 'Constable Diallo has already completed this year's requalification' not a valid conclusion from a rule stating officers must complete it yearly?",
+    "back": "The premise establishes an ongoing requirement, not a completed status. Nothing tells you whether Diallo has finished, is partway through, or has not started, so the statement could be false even with true premises."
+  },
+  {
+    "id": 483,
+    "domain": "problem_analysis",
+    "front": "What is the fastest, most reliable method for a 'which conclusion follows' question with four options?",
+    "back": "Actively try to break each option by asking if it could be false while every premise stays true. Reject any option you can break. Whatever option survives every premise is the correct answer."
+  },
+  {
+    "id": 484,
+    "domain": "problem_analysis",
+    "front": "Every use-of-force report must be reviewed before the officer's shift ends. Constable Park filed one at 1400, shift ended 1800. Which conclusion must be true?",
+    "back": "A sergeant reviewed Park's report before 1800 hours. This survives because the premise requires review before shift end for every report, and Park's shift ended at 1800, leaving no way around it."
+  },
+  {
+    "id": 485,
+    "domain": "problem_analysis",
+    "front": "In the Constable Park review scenario, why is 'the reviewing sergeant was on duty the entire shift' rejected as the answer?",
+    "back": "Nothing in the premises describes the reviewing sergeant's schedule. A relief sergeant covering only part of the shift could have done the review, so the option could be false even with true premises."
+  },
+  {
+    "id": 486,
+    "domain": "problem_analysis",
+    "front": "What is a 'must be true' question asking you to find?",
+    "back": "The one option that the premises absolutely guarantee, with no way for it to be false while the premises stay true. Nothing weaker, such as a merely possible option, qualifies as the answer."
+  },
+  {
+    "id": 487,
+    "domain": "problem_analysis",
+    "front": "What is a 'could be true' question asking you to find?",
+    "back": "An option that the premises allow, meaning nothing in the passage rules it out, even though nothing forces it to be true either. It only needs to be consistent with the given premises."
+  },
+  {
+    "id": 488,
+    "domain": "problem_analysis",
+    "front": "What is a 'cannot be true' question asking you to find?",
+    "back": "The one option that directly contradicts the premises, making it impossible given what you were told. It is the opposite target of a 'must be true' question."
+  },
+  {
+    "id": 489,
+    "domain": "problem_analysis",
+    "front": "Every night-shift patrol vehicle carries a first-aid kit and a spike strip. Unit 12 is on night shift this week. What must be true about Unit 12?",
+    "back": "Unit 12 carries a first-aid kit. This is directly guaranteed, since every night-shift vehicle carries one and Unit 12 is confirmed to be a night-shift vehicle this week."
+  },
+  {
+    "id": 490,
+    "domain": "problem_analysis",
+    "front": "Using the Unit 12 night-shift premises, why does 'Unit 12 also carries a breathalyzer device' fit a could be true question?",
+    "back": "The premises never mention breathalyzer devices at all, so nothing confirms or rules out the claim. It is possible but not guaranteed, which is exactly what a could be true answer requires."
+  },
+  {
+    "id": 491,
+    "domain": "problem_analysis",
+    "front": "Using the Unit 12 night-shift premises, why is 'Unit 12 carries no spike strip' the correct pick for a cannot be true question?",
+    "back": "It directly contradicts the premise that every night-shift vehicle carries a spike strip. Since Unit 12 is a night-shift vehicle, this statement is impossible given the premises."
+  },
+  {
+    "id": 492,
+    "domain": "problem_analysis",
+    "front": "Why does misreading which of the three question types you are answering cost candidates points?",
+    "back": "Each question type has a different correct answer even with identical premises. A candidate who reasons carefully but answers the wrong question type entirely will still mark the item wrong, especially under time pressure."
+  },
+  {
+    "id": 493,
+    "domain": "problem_analysis",
+    "front": "On the Logical Reasoning section, what exactly is the plausibility trap?",
+    "back": "Choosing the answer that sounds like something that would realistically happen on the job instead of the answer the premises actually guarantee. Real-world plausibility and logical guarantee are not the same thing."
+  },
+  {
+    "id": 494,
+    "domain": "problem_analysis",
+    "front": "Officers on the downtown night beat report higher intoxication call rates than other beats. Constable Reyes has worked that beat six years. Is 'Reyes has handled more calls than any officer in the department' guaranteed?",
+    "back": "No. The premise is a group rate comparing beats, not a personal total for Reyes. It says nothing about individual totals and does not rule out other officers who worked the same beat longer."
+  },
+  {
+    "id": 495,
+    "domain": "problem_analysis",
+    "front": "What mechanical check should you run whenever an answer option immediately feels right?",
+    "back": "Ask which exact sentence, or combination of sentences, in the premises forces the option to be true. If you cannot point to specific wording that closes the gap, the option is not guaranteed, however sensible it sounds."
+  },
+  {
+    "id": 496,
+    "domain": "problem_analysis",
+    "front": "What mindset should you hold toward every answer option on this section?",
+    "back": "Treat every conclusion as guilty until the premises prove it innocent. Do not credit an option for sounding reasonable; only credit it once you can point to the exact wording that guarantees it."
+  },
+  {
+    "id": 497,
+    "domain": "problem_analysis",
+    "front": "Rule: if a cruiser's dashcam fails, the officer files an equipment fault report. Officer Singh filed no equipment fault report today. What follows?",
+    "back": "Singh's dashcam did not fail today. This is the valid contrapositive: no fault report guarantees no dashcam failure, since every dashcam failure triggers a report and none happened here."
+  },
+  {
+    "id": 498,
+    "domain": "problem_analysis",
+    "front": "Using the dashcam rule, is 'Singh's dashcam did not fail, so Singh filed no fault report' a valid conclusion?",
+    "back": "No, this reverses the reasoning and denies the antecedent. It wrongly assumes dashcam failure is the only reason to file a fault report, when other equipment issues could also trigger one."
+  },
+  {
+    "id": 499,
+    "domain": "problem_analysis",
+    "front": "Using the dashcam rule, is 'Officer Singh filed a fault report, so the dashcam failed' a valid conclusion?",
+    "back": "No, this affirms the consequent. The rule only guarantees a report when the dashcam fails; the report could have been filed for an entirely different piece of faulty equipment."
+  },
+  {
+    "id": 500,
+    "domain": "problem_analysis",
+    "front": "All K9 handlers complete advanced scent-detection training. Constable Nowak completed advanced scent-detection training. Is 'Nowak is a K9 handler' valid?",
+    "back": "No, this is invalid, the undistributed middle again. Nowak only has to sit inside the training circle. Other roles, like evidence technicians, could also complete the same training without being K9 handlers."
+  }
+]
